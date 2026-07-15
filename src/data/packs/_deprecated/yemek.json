@@ -1,0 +1,828 @@
+[
+  {
+    "id": "yemek_01",
+    "text": "Menemen",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍳"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_02",
+    "text": "Lahmacun",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🫓"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_03",
+    "text": "Baklava",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍯"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_04",
+    "text": "Suşi",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍣"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_05",
+    "text": "Künefe",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_06",
+    "text": "Mantı",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_07",
+    "text": "Pizza",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍕"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_08",
+    "text": "Döner",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_09",
+    "text": "Hamburger",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍔"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_10",
+    "text": "Makarna",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍝"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_11",
+    "text": "Mercimek çorbası",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥣"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_12",
+    "text": "Simit",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥨"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_13",
+    "text": "Pide",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_14",
+    "text": "Kebap",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥩"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_15",
+    "text": "Börek",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_16",
+    "text": "Pilav",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍚"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_17",
+    "text": "Salata",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥗"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_18",
+    "text": "Dondurma",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍦"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_19",
+    "text": "Tost",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_20",
+    "text": "Waffle",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧇"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_21",
+    "text": "Sandviç",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_22",
+    "text": "Patates kızartması",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍟"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_23",
+    "text": "Köfte",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_24",
+    "text": "Gözleme",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_25",
+    "text": "Ayran",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_26",
+    "text": "Çay",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍵"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_27",
+    "text": "Yumurta",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥚"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_28",
+    "text": "Peynir",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧀"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_29",
+    "text": "Zeytin",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🫒"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_30",
+    "text": "Reçel",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_31",
+    "text": "Sütlaç",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_32",
+    "text": "Lokum",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_33",
+    "text": "Helva",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_34",
+    "text": "Revani",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_35",
+    "text": "Poğaça",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_36",
+    "text": "Açma",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_37",
+    "text": "Çikolata",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍫"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_38",
+    "text": "Muz",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍌"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_39",
+    "text": "Elma",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍎"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_40",
+    "text": "Çilek",
+    "categoryId": "yemek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍓"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_41",
+    "text": "İskender",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_42",
+    "text": "Çiğ köfte",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_43",
+    "text": "Tiramisu",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_44",
+    "text": "Humus",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_45",
+    "text": "Kokoreç",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_46",
+    "text": "Paella",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_47",
+    "text": "Karnıyarık",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_48",
+    "text": "İmam bayıldı",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_49",
+    "text": "Hünkâr beğendi",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_50",
+    "text": "Ali nazik",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_51",
+    "text": "Ciğer tava",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_52",
+    "text": "Kumpir",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_53",
+    "text": "Midye dolma",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_54",
+    "text": "Balık ekmek",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_55",
+    "text": "Tantuni",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_56",
+    "text": "Adana dürüm",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_57",
+    "text": "Çiğ börek",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_58",
+    "text": "Lazanya",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_59",
+    "text": "Burrito",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_60",
+    "text": "Ramen",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍜"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_61",
+    "text": "Pad Thai",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_62",
+    "text": "Falafel",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_63",
+    "text": "Bruschetta",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_64",
+    "text": "Croissant",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥐"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_65",
+    "text": "Cheesecake",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_66",
+    "text": "Profiterol",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_67",
+    "text": "Magnolia",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_68",
+    "text": "Lahana sarması",
+    "categoryId": "yemek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yemek_69",
+    "text": "Risotto",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_70",
+    "text": "Guacamole",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_71",
+    "text": "Cassoulet",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_72",
+    "text": "Bouillabaisse",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_73",
+    "text": "Ceviche",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_74",
+    "text": "Gnocchi",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_75",
+    "text": "Ratatouille",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_76",
+    "text": "Kimchi",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_77",
+    "text": "Pho",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_78",
+    "text": "Tzatziki",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yemek_79",
+    "text": "Baba ganuş",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yemek_80",
+    "text": "Muhammara",
+    "categoryId": "yemek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "id": "marka_genel_01",
+    "text": "Diş macunu",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪥"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_02",
+    "text": "Şampuan",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_03",
+    "text": "Sabun",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧼"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_04",
+    "text": "Deterjan",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_05",
+    "text": "Çamaşır yumuşatıcısı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_06",
+    "text": "Bulaşık deterjanı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_07",
+    "text": "Temizlik bezi",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_08",
+    "text": "Sünger",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_09",
+    "text": "Tuvalet kağıdı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧻"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_10",
+    "text": "Kağıt havlu",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_11",
+    "text": "Çöp torbası",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_12",
+    "text": "Poşet",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_13",
+    "text": "Batarya",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_14",
+    "text": "Şarj aleti",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_15",
+    "text": "Kulaklık",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_16",
+    "text": "Telefon kılıfı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_17",
+    "text": "Su şişesi",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_18",
+    "text": "Maden suyu",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_19",
+    "text": "Gazoz",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_20",
+    "text": "Meyve suyu",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_21",
+    "text": "Süt",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥛"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_22",
+    "text": "Yoğurt",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_23",
+    "text": "Peynir",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_24",
+    "text": "Ekmek",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍞"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_25",
+    "text": "Makarna paketi",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_26",
+    "text": "Pirinç",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_27",
+    "text": "Un",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_28",
+    "text": "Şeker",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_29",
+    "text": "Tuz",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_30",
+    "text": "Zeytinyağı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_31",
+    "text": "Ayçiçek yağı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_32",
+    "text": "Tereyağı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_33",
+    "text": "Çikolata tableti",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍫"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_34",
+    "text": "Bisküvi",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_35",
+    "text": "Cips",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍟"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_36",
+    "text": "Kraker",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_37",
+    "text": "Sakız",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_38",
+    "text": "Dondurma külahı",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_39",
+    "text": "Kahve paketi",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "☕"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_40",
+    "text": "Çay kutusu",
+    "categoryId": "marka_genel",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_41",
+    "text": "Tıraş köpüğü",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_42",
+    "text": "Deodorant",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_43",
+    "text": "Parfüm",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_44",
+    "text": "Güneş kremi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_45",
+    "text": "Nemlendirici",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_46",
+    "text": "El kremi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_47",
+    "text": "Dudak balmı",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_48",
+    "text": "Diş ipi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_49",
+    "text": "Ağız gargarası",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_50",
+    "text": "Islak mendil",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_51",
+    "text": "Bebek bezi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_52",
+    "text": "Bebek mendili",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_53",
+    "text": "Çocuk maması",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_54",
+    "text": "Kedi maması",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_55",
+    "text": "Köpek maması",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_56",
+    "text": "Kuş yemi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_57",
+    "text": "Kedi kumu",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_58",
+    "text": "Akvaryum filtresi",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_59",
+    "text": "Ampul",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "💡"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_60",
+    "text": "Led ampul",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_61",
+    "text": "Uzatma kablosu",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_62",
+    "text": "Priz adaptörü",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_63",
+    "text": "Pil şarj cihazı",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_64",
+    "text": "Powerbank",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_65",
+    "text": "Yüzey temizleyici",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_66",
+    "text": "Cam sil",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_67",
+    "text": "Kireç önleyici",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_68",
+    "text": "Bulaşık tableti",
+    "categoryId": "marka_genel",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_69",
+    "text": "Çamaşır suyu",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_70",
+    "text": "Leke çıkarıcı",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_71",
+    "text": "Kumaş boyası",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_72",
+    "text": "Mobilya cilası",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_73",
+    "text": "Zımpara kağıdı",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_74",
+    "text": "Montaj köpüğü",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_75",
+    "text": "Silikon tabancası",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_76",
+    "text": "Vida seti",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_77",
+    "text": "Somun anahtarı",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_78",
+    "text": "Koli bandı",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_79",
+    "text": "Streç film",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "marka_genel_80",
+    "text": "Alüminyum folyo",
+    "categoryId": "marka_genel",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "emoji",
+      "value": "📦"
+    },
+    "region": "both"
+  }
+]

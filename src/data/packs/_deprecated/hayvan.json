@@ -1,0 +1,850 @@
+[
+  {
+    "id": "hayvan_01",
+    "text": "Kedi",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐱"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_02",
+    "text": "Köpek",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐶"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_03",
+    "text": "Penguen",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_04",
+    "text": "Panda",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐼"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_05",
+    "text": "Yunus",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐬"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_06",
+    "text": "Aslan",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦁"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_07",
+    "text": "Tavşan",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐰"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_08",
+    "text": "Fil",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐘"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_09",
+    "text": "At",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_10",
+    "text": "İnek",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐄"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_11",
+    "text": "Koyun",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_12",
+    "text": "Keçi",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐐"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_13",
+    "text": "Tavuk",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐔"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_14",
+    "text": "Ördek",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦆"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_15",
+    "text": "Balık",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐟"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_16",
+    "text": "Kaplumbağa",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐢"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_17",
+    "text": "Yılan",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐍"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_18",
+    "text": "Timsah",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_19",
+    "text": "Ayı",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐻"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_20",
+    "text": "Kurt",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐺"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_21",
+    "text": "Tilki",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_22",
+    "text": "Fare",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐭"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_23",
+    "text": "Sincap",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐿️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_24",
+    "text": "Maymun",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐵"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_25",
+    "text": "Zürafa",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦒"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_26",
+    "text": "Zebra",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦓"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_27",
+    "text": "Kaplan",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐯"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_28",
+    "text": "Kartal",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦅"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_29",
+    "text": "Güvercin",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_30",
+    "text": "Kelebek",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_31",
+    "text": "Arı",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐝"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_32",
+    "text": "Karınca",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_33",
+    "text": "Örümcek",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🕷️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_34",
+    "text": "Yengeç",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦀"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_35",
+    "text": "Ahtapot",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐙"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_36",
+    "text": "Köpekbalığı",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦈"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_37",
+    "text": "Balina",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_38",
+    "text": "Kurbağa",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐸"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_39",
+    "text": "Domuz",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐷"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_40",
+    "text": "Leopar",
+    "categoryId": "hayvan",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_41",
+    "text": "Bukalemun",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_42",
+    "text": "Baykuş",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦉"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_43",
+    "text": "Flamingo",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_44",
+    "text": "Kirpi",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_45",
+    "text": "Kanguru",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_46",
+    "text": "Papağan",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦜"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_47",
+    "text": "Koala",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_48",
+    "text": "Lama",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦙"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_49",
+    "text": "Denizatı",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_50",
+    "text": "Fok",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_51",
+    "text": "Samur",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_52",
+    "text": "Sansar",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_53",
+    "text": "Gelincik",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_54",
+    "text": "Porsuk",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_55",
+    "text": "Sığırcık",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_56",
+    "text": "Pelikan",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_57",
+    "text": "Akrep",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦂"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_58",
+    "text": "Yusufçuk",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_59",
+    "text": "Uğur böceği",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐞"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_60",
+    "text": "Denizanası",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪼"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_61",
+    "text": "Istakoz",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦞"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_62",
+    "text": "Midye",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_63",
+    "text": "Salyangoz",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐌"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_64",
+    "text": "Kertenkele",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_65",
+    "text": "Yarasa",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦇"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_66",
+    "text": "Gergedan",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦏"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_67",
+    "text": "Bufalo",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_68",
+    "text": "Ren geyiği",
+    "categoryId": "hayvan",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🦌"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_69",
+    "text": "Karınca yiyen",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_70",
+    "text": "Su aygırı",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_71",
+    "text": "Okapi",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_72",
+    "text": "Tapir",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_73",
+    "text": "Dugong",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_74",
+    "text": "Narval",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_75",
+    "text": "Axolotl",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_76",
+    "text": "Quokka",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_77",
+    "text": "Capibara",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_78",
+    "text": "Mandrill",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_79",
+    "text": "Aye-aye",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "hayvan_80",
+    "text": "Pangolin",
+    "categoryId": "hayvan",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": "super_kahraman_01",
+    "text": "Superman",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_02",
+    "text": "Batman",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_03",
+    "text": "Spider-Man",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_04",
+    "text": "Iron Man",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_05",
+    "text": "Wonder Woman",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_06",
+    "text": "Hulk",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_07",
+    "text": "Thor",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_08",
+    "text": "Captain America",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_09",
+    "text": "Black Panther",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_10",
+    "text": "Wolverine",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_11",
+    "text": "Deadpool",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_12",
+    "text": "Joker",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Dark Knight"
+  },
+  {
+    "id": "super_kahraman_13",
+    "text": "Harley Quinn",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_14",
+    "text": "Flash",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_15",
+    "text": "Aquaman",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_16",
+    "text": "Black Widow",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_17",
+    "text": "Doctor Strange",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_18",
+    "text": "Ant-Man",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_19",
+    "text": "Captain Marvel",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_20",
+    "text": "Venom",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_21",
+    "text": "Thanos",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_22",
+    "text": "Loki",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_23",
+    "text": "Catwoman",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_24",
+    "text": "Robin",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_25",
+    "text": "Green Lantern",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_26",
+    "text": "Storm",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_27",
+    "text": "Professor X",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_28",
+    "text": "Magneto",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_29",
+    "text": "Scarlet Witch",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_30",
+    "text": "Vision",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_31",
+    "text": "Hawkeye",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_32",
+    "text": "Falcon",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_33",
+    "text": "Winter Soldier",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_34",
+    "text": "Rocket Raccoon",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_35",
+    "text": "Groot",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_36",
+    "text": "Star-Lord",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_37",
+    "text": "Gamora",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_38",
+    "text": "Black Bolt",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_39",
+    "text": "Shazam",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_40",
+    "text": "Cyborg",
+    "categoryId": "super_kahraman",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_41",
+    "text": "Batgirl",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_42",
+    "text": "Nightwing",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_43",
+    "text": "Poison Ivy",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_44",
+    "text": "Penguin",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_45",
+    "text": "Riddler",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_46",
+    "text": "Two-Face",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_47",
+    "text": "Green Goblin",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_48",
+    "text": "Doctor Doom",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_49",
+    "text": "Silver Surfer",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_50",
+    "text": "Invisible Woman",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_51",
+    "text": "Mr. Fantastic",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_52",
+    "text": "Jessica Jones",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_53",
+    "text": "Daredevil",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_54",
+    "text": "Punisher",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_55",
+    "text": "Moon Knight",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_56",
+    "text": "She-Hulk",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_57",
+    "text": "Miles Morales",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_58",
+    "text": "Ms. Marvel",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_59",
+    "text": "Quicksilver",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_60",
+    "text": "Jean Grey",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_61",
+    "text": "Wasp",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_62",
+    "text": "Ultron",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_63",
+    "text": "Carnage",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_64",
+    "text": "Doctor Octopus",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_65",
+    "text": "Cyclops",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_66",
+    "text": "Rogue",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_67",
+    "text": "Gambit",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_68",
+    "text": "Cable",
+    "categoryId": "super_kahraman",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_69",
+    "text": "Nightcrawler",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_70",
+    "text": "Colossus",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_71",
+    "text": "Beast",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_72",
+    "text": "Iceman",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_73",
+    "text": "Kitty Pryde",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_74",
+    "text": "Emma Frost",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Marvel"
+  },
+  {
+    "id": "super_kahraman_75",
+    "text": "Black Adam",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_76",
+    "text": "Peacemaker",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "super_kahraman_77",
+    "text": "Homelander",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  },
+  {
+    "id": "super_kahraman_78",
+    "text": "Starlight",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  },
+  {
+    "id": "super_kahraman_79",
+    "text": "Hughie",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  },
+  {
+    "id": "super_kahraman_80",
+    "text": "Billy Butcher",
+    "categoryId": "super_kahraman",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  }
+]

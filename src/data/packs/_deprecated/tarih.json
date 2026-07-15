@@ -1,0 +1,818 @@
+[
+  {
+    "id": "tarih_01",
+    "text": "Piramit",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔺"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_02",
+    "text": "Firavun",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_03",
+    "text": "Roma",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏛️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_04",
+    "text": "Gladyatör",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🗡️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_05",
+    "text": "Ortaçağ",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_06",
+    "text": "Şövalye",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛡️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_07",
+    "text": "Kale",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏰"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_08",
+    "text": "Kılıç",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⚔️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_09",
+    "text": "Ok ve yay",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_10",
+    "text": "Gemi",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⛵"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_11",
+    "text": "Keşif",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_12",
+    "text": "Harita",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🗺️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_13",
+    "text": "Taç",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_14",
+    "text": "Kral",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_15",
+    "text": "Kraliçe",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_16",
+    "text": "Prenses",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_17",
+    "text": "Şehir surları",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_18",
+    "text": "Köprü",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_19",
+    "text": "Mozaik",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_20",
+    "text": "Antik tiyatro",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_21",
+    "text": "Sütun",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_22",
+    "text": "Tapınak",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_23",
+    "text": "Mitoloji",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_24",
+    "text": "Tanrı",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_25",
+    "text": "Tanrıça",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_26",
+    "text": "Ejderha",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐉"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_27",
+    "text": "Dev",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_28",
+    "text": "Kahraman",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_29",
+    "text": "Efsane",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_30",
+    "text": "Zeus",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⚡"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_31",
+    "text": "Hera",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_32",
+    "text": "Ares",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_33",
+    "text": "Afrodit",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_34",
+    "text": "Poseidon",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_35",
+    "text": "Athena",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_36",
+    "text": "Anka kuşu",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_37",
+    "text": "Tek boynuzlu at",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_38",
+    "text": "Denizkızı",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧜"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_39",
+    "text": "Troya",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_40",
+    "text": "İpek Yolu",
+    "categoryId": "tarih",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🐪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_41",
+    "text": "Osmanlı",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_42",
+    "text": "Selçuklu",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_43",
+    "text": "Bizans",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_44",
+    "text": "Hitit",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_45",
+    "text": "Lidya",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_46",
+    "text": "Sümer",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_47",
+    "text": "Babil",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_48",
+    "text": "Pers",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_49",
+    "text": "İskenderiye Kütüphanesi",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_50",
+    "text": "Çin Seddi",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧱"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_51",
+    "text": "Machu Picchu",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_52",
+    "text": "Kolosseum",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_53",
+    "text": "Pantheon",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_54",
+    "text": "Akropolis",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_55",
+    "text": "Kapadokya yeraltı şehri",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_56",
+    "text": "Göbeklitepe",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_57",
+    "text": "Çatalhöyük",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_58",
+    "text": "Truva Atı",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "tarih_59",
+    "text": "Medusa",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_60",
+    "text": "Minotaur",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_61",
+    "text": "Pegasus",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_62",
+    "text": "Herakles",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_63",
+    "text": "Odysseus",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_64",
+    "text": "Gilgamış",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_65",
+    "text": "Thor",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔨"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_66",
+    "text": "Odin",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_67",
+    "text": "Valhalla",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_68",
+    "text": "Fenike",
+    "categoryId": "tarih",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_69",
+    "text": "Hammurabi Kanunları",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_70",
+    "text": "Rosetta Taşı",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_71",
+    "text": "Magna Carta",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_72",
+    "text": "Karolenj İmparatorluğu",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_73",
+    "text": "Hanedan arması",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_74",
+    "text": "Thermopylai",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_75",
+    "text": "Epigrafi",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_76",
+    "text": "Çivi yazısı",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_77",
+    "text": "Fenike alfabesi",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_78",
+    "text": "Helios Heykeli",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_79",
+    "text": "Labirent efsanesi",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "tarih_80",
+    "text": "Assur yazıtları",
+    "categoryId": "tarih",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

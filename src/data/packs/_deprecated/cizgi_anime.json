@@ -1,0 +1,802 @@
+[
+  {
+    "id": "cizgi_anime_01",
+    "text": "Mickey Mouse",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_02",
+    "text": "SpongeBob",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_03",
+    "text": "Bugs Bunny",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_04",
+    "text": "Tom ve Jerry",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_05",
+    "text": "Goku",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_06",
+    "text": "Naruto",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_07",
+    "text": "Pikachu",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_08",
+    "text": "Buzz Lightyear",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_09",
+    "text": "Woody",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_10",
+    "text": "Nemo",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_11",
+    "text": "Dory",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_12",
+    "text": "Elsa",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_13",
+    "text": "Olaf",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_14",
+    "text": "Scooby-Doo",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_15",
+    "text": "Doraemon",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_16",
+    "text": "Bart Simpson",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_17",
+    "text": "Homer Simpson",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_18",
+    "text": "Shrek",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_19",
+    "text": "Donkey (Şrek)",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_20",
+    "text": "Luffy",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_21",
+    "text": "Sailor Moon",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_22",
+    "text": "Totoro",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_23",
+    "text": "Stitch",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_24",
+    "text": "Winnie the Pooh",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_25",
+    "text": "Donald Duck",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_26",
+    "text": "Mike Wazowski",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_27",
+    "text": "Sulley",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_28",
+    "text": "Lightning McQueen",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_29",
+    "text": "Wall-E",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_30",
+    "text": "Peppa Pig",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_31",
+    "text": "Vegeta",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_32",
+    "text": "Sasuke",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_33",
+    "text": "Ichigo Kurosaki",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_34",
+    "text": "Eren Yeager",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_35",
+    "text": "Levi Ackerman",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_36",
+    "text": "Spike Spiegel",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_37",
+    "text": "Edward Elric",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_38",
+    "text": "Chihiro",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_39",
+    "text": "Howl",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_40",
+    "text": "Patrick Star",
+    "categoryId": "cizgi_anime",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_41",
+    "text": "Squidward",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_42",
+    "text": "Puss in Boots",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_43",
+    "text": "Fiona",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_44",
+    "text": "Joy (Inside Out)",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_45",
+    "text": "Sadness",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_46",
+    "text": "Remy (Ratatouille)",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_47",
+    "text": "Carl Fredricksen",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_48",
+    "text": "Russell (Up)",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_49",
+    "text": "Mulan",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_50",
+    "text": "Mushu",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_51",
+    "text": "Po (Kung Fu Panda)",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_52",
+    "text": "L",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_53",
+    "text": "Light Yagami",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_54",
+    "text": "Gon Freecss",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_55",
+    "text": "Killua",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_56",
+    "text": "Asuka Langley",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_57",
+    "text": "Shinji Ikari",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_58",
+    "text": "Vash the Stampede",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_59",
+    "text": "Courage the Cowardly Dog",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_60",
+    "text": "Johnny Bravo",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "cizgi_anime_61",
+    "text": "Zoro",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_62",
+    "text": "Nami",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_63",
+    "text": "Sanji",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_64",
+    "text": "Chopper",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_65",
+    "text": "Gohan",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_66",
+    "text": "Piccolo",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_67",
+    "text": "Freiza",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_68",
+    "text": "Ichigo",
+    "categoryId": "cizgi_anime",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_69",
+    "text": "Rukia",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_70",
+    "text": "Aizen",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_71",
+    "text": "L Lawliet",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_72",
+    "text": "Near",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_73",
+    "text": "Misa",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_74",
+    "text": "Mikasa",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_75",
+    "text": "Armin",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_76",
+    "text": "Tanjiro",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_77",
+    "text": "Nezuko",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_78",
+    "text": "Zenitsu",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_79",
+    "text": "Inosuke",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "cizgi_anime_80",
+    "text": "Saitama",
+    "categoryId": "cizgi_anime",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

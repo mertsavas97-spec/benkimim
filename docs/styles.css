@@ -1,0 +1,135 @@
+:root {
+  --bg: #12141a;
+  --elev: #1c1f28;
+  --ink: #f4f0e8;
+  --muted: #9a958c;
+  --accent: #f0b429;
+  --line: rgba(240, 180, 41, 0.28);
+  --max: 44rem;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font);
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(240, 180, 41, 0.22), transparent),
+    var(--bg);
+  color: var(--ink);
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.95rem;
+}
+
+.brand {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  font-size: 1.75rem;
+  margin: 0 0 0.35rem;
+}
+
+.lede {
+  color: var(--muted);
+  margin: 0 0 1.75rem;
+}
+
+h1 {
+  font-size: 1.85rem;
+  letter-spacing: -0.03em;
+  margin: 0 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  color: var(--accent);
+  margin: 1.75rem 0 0.5rem;
+}
+
+p,
+li {
+  color: rgba(244, 240, 232, 0.92);
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.card {
+  background: var(--elev);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem;
+  margin: 0.75rem 0;
+}
+
+.card h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+}
+
+.card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin-bottom: 1.25rem;
+}
+
+.disclaimer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 0.75rem;
+  background: var(--accent);
+  color: #12141a;
+  font-weight: 700;
+  padding: 0.65rem 1rem;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  text-decoration: none;
+  filter: brightness(1.05);
+}

@@ -1,0 +1,882 @@
+[
+  {
+    "id": "unlu_01",
+    "text": "Kenan İmirzalıoğlu",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Behzat Ç."
+  },
+  {
+    "id": "unlu_02",
+    "text": "Beren Saat",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Fatmagül’ün Suçu Ne?"
+  },
+  {
+    "id": "unlu_03",
+    "text": "Hadise",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  },
+  {
+    "id": "unlu_04",
+    "text": "Demet Özdemir",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Erkenci Kuş"
+  },
+  {
+    "id": "unlu_05",
+    "text": "Kıvanç Tatlıtuğ",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kuzey Güney"
+  },
+  {
+    "id": "unlu_06",
+    "text": "Serenay Sarıkaya",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "unlu_07",
+    "text": "Engin Akyürek",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kara Para Aşk"
+  },
+  {
+    "id": "unlu_08",
+    "text": "Tuba Büyüküstün",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kara Para Aşk"
+  },
+  {
+    "id": "unlu_09",
+    "text": "Halit Ergenç",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Muhteşem Yüzyıl"
+  },
+  {
+    "id": "unlu_10",
+    "text": "Bergüzar Korel",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kara Para Aşk"
+  },
+  {
+    "id": "unlu_11",
+    "text": "Fahriye Evcen",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Çalıkuşu"
+  },
+  {
+    "id": "unlu_12",
+    "text": "Burak Özçivit",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kurt Seyit ve Alexandra"
+  },
+  {
+    "id": "unlu_13",
+    "text": "Hande Erçel",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sen Çal Kapımı"
+  },
+  {
+    "id": "unlu_14",
+    "text": "Kerem Bürsin",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sen Çal Kapımı"
+  },
+  {
+    "id": "unlu_15",
+    "text": "Afra Saraçoğlu",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yalı Çapkını"
+  },
+  {
+    "id": "unlu_16",
+    "text": "Mert Ramazan Demir",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yalı Çapkını"
+  },
+  {
+    "id": "unlu_17",
+    "text": "Çağatay Ulusoy",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "unlu_18",
+    "text": "Aras Bulut İynemli",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Çukur"
+  },
+  {
+    "id": "unlu_19",
+    "text": "Özge Gürel",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kiraz Mevsimi"
+  },
+  {
+    "id": "unlu_20",
+    "text": "Can Yaman",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Erkenci Kuş"
+  },
+  {
+    "id": "unlu_21",
+    "text": "Eda Ece",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yasak Elma"
+  },
+  {
+    "id": "unlu_22",
+    "text": "İbrahim Çelikkol",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kara Sevda"
+  },
+  {
+    "id": "unlu_23",
+    "text": "Elçin Sangu",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kiralık Aşk"
+  },
+  {
+    "id": "unlu_24",
+    "text": "Barış Arduç",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kiralık Aşk"
+  },
+  {
+    "id": "unlu_25",
+    "text": "Leyla Lydia Tuğutlu",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Adı Mutluluk"
+  },
+  {
+    "id": "unlu_26",
+    "text": "Neslihan Atagül",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kara Sevda"
+  },
+  {
+    "id": "unlu_27",
+    "text": "Kadir Doğulu",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kiralık Aşk"
+  },
+  {
+    "id": "unlu_28",
+    "text": "Gökçe Bahadır",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yasak Elma"
+  },
+  {
+    "id": "unlu_29",
+    "text": "Timuçin Esen",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Behzat Ç."
+  },
+  {
+    "id": "unlu_30",
+    "text": "Melisa Sözen",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Masum"
+  },
+  {
+    "id": "unlu_31",
+    "text": "Binnur Kaya",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kuzey Güney"
+  },
+  {
+    "id": "unlu_32",
+    "text": "Haluk Bilginer",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_33",
+    "text": "Şener Şen",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_34",
+    "text": "Türkan Şoray",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_35",
+    "text": "Filiz Akın",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_36",
+    "text": "Cüneyt Arkın",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_37",
+    "text": "Kemal Sunal",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_38",
+    "text": "Ayhan Işık",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_39",
+    "text": "Hülya Koçyiğit",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_40",
+    "text": "Tarık Akan",
+    "categoryId": "unlu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yeşilçam"
+  },
+  {
+    "id": "unlu_41",
+    "text": "Yılmaz Erdoğan",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Organize İşler"
+  },
+  {
+    "id": "unlu_42",
+    "text": "Cem Yılmaz",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Stand-up"
+  },
+  {
+    "id": "unlu_43",
+    "text": "Ata Demirer",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Stand-up"
+  },
+  {
+    "id": "unlu_44",
+    "text": "Şahan Gökbakar",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Recep İvedik"
+  },
+  {
+    "id": "unlu_45",
+    "text": "Gülse Birsel",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "unlu_46",
+    "text": "Ezgi Mola",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_47",
+    "text": "İlker Ayrık",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sunucu"
+  },
+  {
+    "id": "unlu_48",
+    "text": "Okan Bayülgen",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sunucu"
+  },
+  {
+    "id": "unlu_49",
+    "text": "Müge Anlı",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sunucu"
+  },
+  {
+    "id": "unlu_50",
+    "text": "Acun Ilıcalı",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Prodüktör"
+  },
+  {
+    "id": "unlu_51",
+    "text": "İbrahim Selim",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sunucu"
+  },
+  {
+    "id": "unlu_52",
+    "text": "Tolga Çevik",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_53",
+    "text": "Zafer Algöz",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_54",
+    "text": "Demet Akbağ",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_55",
+    "text": "Hülya Avşar",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_56",
+    "text": "Dua Lipa",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  },
+  {
+    "id": "unlu_57",
+    "text": "Taylor Swift",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  },
+  {
+    "id": "unlu_58",
+    "text": "Rihanna",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  },
+  {
+    "id": "unlu_59",
+    "text": "Beyoncé",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  },
+  {
+    "id": "unlu_60",
+    "text": "Brad Pitt",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_61",
+    "text": "Angelina Jolie",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_62",
+    "text": "Leonardo DiCaprio",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_63",
+    "text": "Tom Cruise",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_64",
+    "text": "Scarlett Johansson",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_65",
+    "text": "Zendaya",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_66",
+    "text": "Timothée Chalamet",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_67",
+    "text": "Ryan Reynolds",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_68",
+    "text": "Chris Hemsworth",
+    "categoryId": "unlu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_69",
+    "text": "Gal Gadot",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_70",
+    "text": "Keanu Reeves",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_71",
+    "text": "Jennifer Lawrence",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_72",
+    "text": "Emma Watson",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_73",
+    "text": "Robert Downey Jr.",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_74",
+    "text": "Margot Robbie",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_75",
+    "text": "Pedro Pascal",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_76",
+    "text": "Anya Taylor-Joy",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_77",
+    "text": "Florence Pugh",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_78",
+    "text": "Henry Cavill",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_79",
+    "text": "Sydney Sweeney",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Oyuncu"
+  },
+  {
+    "id": "unlu_80",
+    "text": "BTS RM",
+    "categoryId": "unlu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Müzisyen"
+  }
+]

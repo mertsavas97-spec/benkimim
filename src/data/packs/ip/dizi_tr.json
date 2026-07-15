@@ -1,0 +1,805 @@
+[
+  {
+    "id": "dizi_tr_01",
+    "text": "Behzat Ç.",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Polisiye dizi · başrol"
+  },
+  {
+    "id": "dizi_tr_02",
+    "text": "Yamaç Koçovalı",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_03",
+    "text": "Polat Alemdar",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kurtlar Vadisi"
+  },
+  {
+    "id": "dizi_tr_04",
+    "text": "Fatmagül",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Fatmagül’ün Suçu Ne?"
+  },
+  {
+    "id": "dizi_tr_05",
+    "text": "Hürrem Sultan",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Muhteşem Yüzyıl"
+  },
+  {
+    "id": "dizi_tr_06",
+    "text": "Ertuğrul Gazi",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Diriliş: Ertuğrul"
+  },
+  {
+    "id": "dizi_tr_07",
+    "text": "Bihter Ziyagil",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_08",
+    "text": "İsmail Abi",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Seksenler"
+  },
+  {
+    "id": "dizi_tr_09",
+    "text": "Ezel Bayraktar",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Ezel"
+  },
+  {
+    "id": "dizi_tr_10",
+    "text": "Kemal Soydere",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kara Sevda"
+  },
+  {
+    "id": "dizi_tr_11",
+    "text": "Vartolu Saadettin",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_12",
+    "text": "Mira Beylice",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "dizi_tr_13",
+    "text": "Volkan (Avrupa Yakası)",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_14",
+    "text": "Memoli",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_15",
+    "text": "Poyraz Karayel",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "İntikam · polisiye dizi"
+  },
+  {
+    "id": "dizi_tr_16",
+    "text": "Yusuf Miroğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kara Sevda"
+  },
+  {
+    "id": "dizi_tr_17",
+    "text": "Kuzey Tekinoğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kuzey Güney"
+  },
+  {
+    "id": "dizi_tr_18",
+    "text": "Güney Tekinoğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kuzey Güney"
+  },
+  {
+    "id": "dizi_tr_19",
+    "text": "Mecnun",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Leyla ile Mecnun"
+  },
+  {
+    "id": "dizi_tr_20",
+    "text": "Erdal Bakkal",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Leyla ile Mecnun"
+  },
+  {
+    "id": "dizi_tr_22",
+    "text": "Ömer Demir",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Sen Çal Kapımı"
+  },
+  {
+    "id": "dizi_tr_23",
+    "text": "Serkan Bolat",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Sen Çal Kapımı"
+  },
+  {
+    "id": "dizi_tr_24",
+    "text": "Eda Yıldız",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Sen Çal Kapımı"
+  },
+  {
+    "id": "dizi_tr_25",
+    "text": "Faruk Boran",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Yasak Elma"
+  },
+  {
+    "id": "dizi_tr_26",
+    "text": "Süreyya",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Binbir Gece"
+  },
+  {
+    "id": "dizi_tr_27",
+    "text": "Behlül Haznedar",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_28",
+    "text": "Cesur Alemdaroğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Cesur ve Güzel"
+  },
+  {
+    "id": "dizi_tr_29",
+    "text": "Sultan (Çukurova)",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukurova"
+  },
+  {
+    "id": "dizi_tr_30",
+    "text": "İdris Koçovalı",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_31",
+    "text": "Agâh Beyoğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_32",
+    "text": "Adnan Ziyagil",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_33",
+    "text": "Nihal Ziyagil",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_34",
+    "text": "Emmi (Çukur)",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_35",
+    "text": "Sena Koçovali",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_36",
+    "text": "Eyşan Tezcan",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Masumlar Apartmanı"
+  },
+  {
+    "id": "dizi_tr_37",
+    "text": "Selim Serez",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "dizi_tr_38",
+    "text": "Cemo (Kurtlar Vadisi)",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kurtlar Vadisi"
+  },
+  {
+    "id": "dizi_tr_39",
+    "text": "Deli Hikmet",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kurtlar Vadisi"
+  },
+  {
+    "id": "dizi_tr_40",
+    "text": "Banu (Kuzey Güney)",
+    "categoryId": "dizi_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kuzey Güney"
+  },
+  {
+    "id": "dizi_tr_41",
+    "text": "Feride Şadoğlu",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hercai"
+  },
+  {
+    "id": "dizi_tr_42",
+    "text": "Kamran Alpago",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Çalıkuşu"
+  },
+  {
+    "id": "dizi_tr_43",
+    "text": "Ömer Nasır",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Maraşlı"
+  },
+  {
+    "id": "dizi_tr_44",
+    "text": "Elif Denizer",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kara Para Aşk"
+  },
+  {
+    "id": "dizi_tr_45",
+    "text": "Baran Yılmaz",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Siyah Beyaz Aşk"
+  },
+  {
+    "id": "dizi_tr_46",
+    "text": "Dilan Çetin",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Siyah Beyaz Aşk"
+  },
+  {
+    "id": "dizi_tr_47",
+    "text": "Tahir Karaçay",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kara Sevda"
+  },
+  {
+    "id": "dizi_tr_48",
+    "text": "İnci (Avrupa Yakası)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_49",
+    "text": "Yaprak (Yaprak Dökümü)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Yaprak Dökümü"
+  },
+  {
+    "id": "dizi_tr_50",
+    "text": "Fikret Tekin",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Yaprak Dökümü"
+  },
+  {
+    "id": "dizi_tr_51",
+    "text": "Ali Rıza (Avrupa Yakası)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_52",
+    "text": "Cahide (Avrupa Yakası)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_53",
+    "text": "Nizamettin (Leyla ile Mecnun)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Leyla ile Mecnun"
+  },
+  {
+    "id": "dizi_tr_54",
+    "text": "Leyla (Leyla ile Mecnun)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Leyla ile Mecnun"
+  },
+  {
+    "id": "dizi_tr_55",
+    "text": "İzzet (Avrupa Yakası)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Avrupa Yakası"
+  },
+  {
+    "id": "dizi_tr_56",
+    "text": "Ayla (Yaprak Dökümü)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Yaprak Dökümü"
+  },
+  {
+    "id": "dizi_tr_57",
+    "text": "Gönül Ülkü",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Bizimkiler"
+  },
+  {
+    "id": "dizi_tr_58",
+    "text": "Hayat Şaşmaz",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Paramparça"
+  },
+  {
+    "id": "dizi_tr_59",
+    "text": "Asya (Asmalı Konak)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Asmalı Konak"
+  },
+  {
+    "id": "dizi_tr_60",
+    "text": "Seymen (Asmalı Konak)",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Asmalı Konak"
+  },
+  {
+    "id": "dizi_tr_61",
+    "text": "Ramiz Karaeski",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Ezel"
+  },
+  {
+    "id": "dizi_tr_62",
+    "text": "Serhat",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Ezel"
+  },
+  {
+    "id": "dizi_tr_63",
+    "text": "Ali Rıza Beşikçi",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bir İstanbul Masalı"
+  },
+  {
+    "id": "dizi_tr_64",
+    "text": "İskender Çınar",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "dizi_tr_68",
+    "text": "Farah",
+    "categoryId": "dizi_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yabancı Damat"
+  },
+  {
+    "id": "dizi_tr_69",
+    "text": "Bihter",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_70",
+    "text": "Behlül",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_71",
+    "text": "Firdevs",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Aşk-ı Memnu"
+  },
+  {
+    "id": "dizi_tr_72",
+    "text": "Ömer Işık",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Love 101 / benzer"
+  },
+  {
+    "id": "dizi_tr_73",
+    "text": "Defne",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Medcezir"
+  },
+  {
+    "id": "dizi_tr_74",
+    "text": "Miran Aslanbey",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Hercai"
+  },
+  {
+    "id": "dizi_tr_75",
+    "text": "Reyyan",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Hercai"
+  },
+  {
+    "id": "dizi_tr_78",
+    "text": "Cumali Koçovalı",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Çukur"
+  },
+  {
+    "id": "dizi_tr_79",
+    "text": "Salih Koçovalı",
+    "categoryId": "dizi_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Çukur"
+  }
+]

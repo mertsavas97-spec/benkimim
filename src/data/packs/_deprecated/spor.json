@@ -1,0 +1,822 @@
+[
+  {
+    "id": "spor_01",
+    "text": "Futbol",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⚽"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_02",
+    "text": "Basketbol",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏀"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_03",
+    "text": "Yüzme",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_04",
+    "text": "Tenis",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎾"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_05",
+    "text": "Voleybol",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏐"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_06",
+    "text": "Koşu",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_07",
+    "text": "Boks",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_08",
+    "text": "Kayak",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⛷️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_09",
+    "text": "Bisiklet",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_10",
+    "text": "Yoga",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧘"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_11",
+    "text": "Pilates",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_12",
+    "text": "Golf",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⛳"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_13",
+    "text": "Buz hokeyi",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏒"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_14",
+    "text": "Kaykay",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛹"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_15",
+    "text": "Sörf",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏄"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_16",
+    "text": "Jimnastik",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_17",
+    "text": "Halter",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏋️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_18",
+    "text": "Masa tenisi",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_19",
+    "text": "Badminton",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_20",
+    "text": "Yürüyüş",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_21",
+    "text": "Maraton",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_22",
+    "text": "Triatlon",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_23",
+    "text": "Kürek",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_24",
+    "text": "Yelken",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_25",
+    "text": "Binicilik",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏇"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_26",
+    "text": "Güreş",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "spor_27",
+    "text": "Karate",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_28",
+    "text": "Judo",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_29",
+    "text": "Tekvando",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_30",
+    "text": "Karma dövüş sporları",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_31",
+    "text": "Dart",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_32",
+    "text": "Bilyar",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_33",
+    "text": "Bowling",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎳"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_34",
+    "text": "Masa futbolu",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_35",
+    "text": "Patens",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_36",
+    "text": "Snowboard",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏂"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_37",
+    "text": "Dağcılık",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧗"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_38",
+    "text": "Tırmanış",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_39",
+    "text": "Squash",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_40",
+    "text": "Parkur",
+    "categoryId": "spor",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_41",
+    "text": "Kickboks",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_42",
+    "text": "Okçuluk",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏹"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_43",
+    "text": "Ragbi",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_44",
+    "text": "Kriket",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_45",
+    "text": "Beyzbol",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_46",
+    "text": "Softbol",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_47",
+    "text": "Su topu",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_48",
+    "text": "Senkronize yüzme",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_49",
+    "text": "Artistik buz pateni",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_50",
+    "text": "Kano",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_51",
+    "text": "Rafting",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_52",
+    "text": "Paraşüt",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_53",
+    "text": "Yamaç paraşütü",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_54",
+    "text": "Tırmanma duvarı",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_55",
+    "text": "Fonksiyonel antrenman",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_56",
+    "text": "Spinning",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_57",
+    "text": "Zumba",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_58",
+    "text": "Aerobik",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_59",
+    "text": "Nordic walking",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_60",
+    "text": "Eskrim",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_61",
+    "text": "Pentatlon",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_62",
+    "text": "Dekatlon",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_63",
+    "text": "Biathlon",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_64",
+    "text": "Skeleton",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_65",
+    "text": "Luge",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_66",
+    "text": "Sürat pateni",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_67",
+    "text": "Wushu",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_68",
+    "text": "Muay Thai",
+    "categoryId": "spor",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_69",
+    "text": "Curling",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_70",
+    "text": "Sepak takraw",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_71",
+    "text": "Kabaddi",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_72",
+    "text": "Petanque",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_73",
+    "text": "Hurling",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_74",
+    "text": "Lacrosse",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_75",
+    "text": "Netball",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_76",
+    "text": "Floorball",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_77",
+    "text": "Ultimate frisbee",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "spor_78",
+    "text": "Bandı",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_79",
+    "text": "Sumo",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "spor_80",
+    "text": "Capoeira",
+    "categoryId": "spor",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  }
+]

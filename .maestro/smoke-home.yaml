@@ -1,0 +1,8 @@
+appId: com.benkimim.app
+---
+# Soft smoke for Expo Go / web; tags for local CI later
+- launchApp
+- assertVisible: "benkimim"
+- tapOn: "Hızlı oyun"
+- assertVisible: "Hızlı oyun"
+- assertVisible: "Başlat"

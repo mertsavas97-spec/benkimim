@@ -1,0 +1,849 @@
+[
+  {
+    "id": "dizi_global_01",
+    "text": "Walter White",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_02",
+    "text": "Jesse Pinkman",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_03",
+    "text": "Rachel Green",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_04",
+    "text": "Ross Geller",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_05",
+    "text": "Joey Tribbiani",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_06",
+    "text": "Chandler Bing",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_07",
+    "text": "Monica Geller",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_08",
+    "text": "Phoebe Buffay",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Friends"
+  },
+  {
+    "id": "dizi_global_09",
+    "text": "Jon Snow",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_10",
+    "text": "Daenerys Targaryen",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_11",
+    "text": "Tyrion Lannister",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_12",
+    "text": "Sherlock Holmes",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sherlock"
+  },
+  {
+    "id": "dizi_global_13",
+    "text": "Eleven",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Stranger Things"
+  },
+  {
+    "id": "dizi_global_14",
+    "text": "Homer Simpson",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Simpsons"
+  },
+  {
+    "id": "dizi_global_15",
+    "text": "Sheldon Cooper",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Big Bang Theory"
+  },
+  {
+    "id": "dizi_global_16",
+    "text": "Michael Scott",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Office"
+  },
+  {
+    "id": "dizi_global_17",
+    "text": "Dwight Schrute",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Office"
+  },
+  {
+    "id": "dizi_global_18",
+    "text": "Tony Soprano",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Sopranos"
+  },
+  {
+    "id": "dizi_global_19",
+    "text": "Dexter Morgan",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Dexter"
+  },
+  {
+    "id": "dizi_global_20",
+    "text": "Don Draper",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mad Men"
+  },
+  {
+    "id": "dizi_global_21",
+    "text": "Carrie Bradshaw",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sex and the City"
+  },
+  {
+    "id": "dizi_global_22",
+    "text": "Saul Goodman",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Better Call Saul"
+  },
+  {
+    "id": "dizi_global_23",
+    "text": "Rick Grimes",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Walking Dead"
+  },
+  {
+    "id": "dizi_global_24",
+    "text": "Geralt of Rivia",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Witcher"
+  },
+  {
+    "id": "dizi_global_25",
+    "text": "Thomas Shelby",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Peaky Blinders"
+  },
+  {
+    "id": "dizi_global_26",
+    "text": "Wednesday Addams",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Wednesday"
+  },
+  {
+    "id": "dizi_global_27",
+    "text": "Fleabag",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Siyah komedi · BBC"
+  },
+  {
+    "id": "dizi_global_28",
+    "text": "Ted Lasso",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Futbol koçu · komedi"
+  },
+  {
+    "id": "dizi_global_29",
+    "text": "Jim Halpert",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Office"
+  },
+  {
+    "id": "dizi_global_30",
+    "text": "Leslie Knope",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Parks and Recreation"
+  },
+  {
+    "id": "dizi_global_31",
+    "text": "Gus Fring",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_32",
+    "text": "Hank Schrader",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_33",
+    "text": "Cersei Lannister",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_34",
+    "text": "Arya Stark",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_35",
+    "text": "John Watson",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sherlock"
+  },
+  {
+    "id": "dizi_global_36",
+    "text": "Mike Wheeler",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Stranger Things"
+  },
+  {
+    "id": "dizi_global_37",
+    "text": "Dustin Henderson",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Stranger Things"
+  },
+  {
+    "id": "dizi_global_38",
+    "text": "Barney Stinson",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "How I Met Your Mother"
+  },
+  {
+    "id": "dizi_global_39",
+    "text": "Ted Mosby",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "How I Met Your Mother"
+  },
+  {
+    "id": "dizi_global_40",
+    "text": "Harvey Specter",
+    "categoryId": "dizi_global",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Suits"
+  },
+  {
+    "id": "dizi_global_41",
+    "text": "Olivia Pope",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Scandal"
+  },
+  {
+    "id": "dizi_global_42",
+    "text": "Pablo Escobar",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Narcos"
+  },
+  {
+    "id": "dizi_global_43",
+    "text": "Claire Underwood",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "House of Cards"
+  },
+  {
+    "id": "dizi_global_44",
+    "text": "Frank Underwood",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "House of Cards"
+  },
+  {
+    "id": "dizi_global_45",
+    "text": "Stringer Bell",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Wire"
+  },
+  {
+    "id": "dizi_global_46",
+    "text": "Omar Little",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Wire"
+  },
+  {
+    "id": "dizi_global_47",
+    "text": "Pam Beesly",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Office"
+  },
+  {
+    "id": "dizi_global_48",
+    "text": "Angela Martin",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Office"
+  },
+  {
+    "id": "dizi_global_49",
+    "text": "Kim Wexler",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Better Call Saul"
+  },
+  {
+    "id": "dizi_global_50",
+    "text": "Mike Ehrmantraut",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_51",
+    "text": "Skyler White",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Breaking Bad"
+  },
+  {
+    "id": "dizi_global_52",
+    "text": "Rusty Cohle",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "True Detective"
+  },
+  {
+    "id": "dizi_global_53",
+    "text": "Marty Byrde",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Ozark"
+  },
+  {
+    "id": "dizi_global_54",
+    "text": "Villanelle",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Killing Eve"
+  },
+  {
+    "id": "dizi_global_55",
+    "text": "Elliot Alderson",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mr. Robot"
+  },
+  {
+    "id": "dizi_global_56",
+    "text": "BoJack Horseman",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Animasyon · depresif at"
+  },
+  {
+    "id": "dizi_global_57",
+    "text": "Diane Nguyen",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "BoJack Horseman"
+  },
+  {
+    "id": "dizi_global_58",
+    "text": "Abed Nadir",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Community"
+  },
+  {
+    "id": "dizi_global_59",
+    "text": "Lucille Bluth",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Arrested Development"
+  },
+  {
+    "id": "dizi_global_60",
+    "text": "Logan Roy",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Succession"
+  },
+  {
+    "id": "dizi_global_61",
+    "text": "Hopper",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Stranger Things"
+  },
+  {
+    "id": "dizi_global_62",
+    "text": "Joyce",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Stranger Things"
+  },
+  {
+    "id": "dizi_global_63",
+    "text": "Jaime Lannister",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_64",
+    "text": "Cersei",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Game of Thrones"
+  },
+  {
+    "id": "dizi_global_65",
+    "text": "Carmela Soprano",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Sopranos"
+  },
+  {
+    "id": "dizi_global_66",
+    "text": "Peggy Olson",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Mad Men"
+  },
+  {
+    "id": "dizi_global_67",
+    "text": "Mr Big",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sex and the City"
+  },
+  {
+    "id": "dizi_global_68",
+    "text": "Robin Scherbatsky",
+    "categoryId": "dizi_global",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "How I Met Your Mother"
+  },
+  {
+    "id": "dizi_global_69",
+    "text": "Eve Polastri",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Killing Eve"
+  },
+  {
+    "id": "dizi_global_70",
+    "text": "Chuck McGill",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Better Call Saul"
+  },
+  {
+    "id": "dizi_global_71",
+    "text": "Princess Carolyn",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "BoJack Horseman"
+  },
+  {
+    "id": "dizi_global_72",
+    "text": "Enid Sinclair",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Wednesday"
+  },
+  {
+    "id": "dizi_global_73",
+    "text": "Homelander",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  },
+  {
+    "id": "dizi_global_74",
+    "text": "Hughie Campbell",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Boys"
+  },
+  {
+    "id": "dizi_global_75",
+    "text": "Kendall Roy",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Succession"
+  },
+  {
+    "id": "dizi_global_76",
+    "text": "Shiv Roy",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Succession"
+  },
+  {
+    "id": "dizi_global_77",
+    "text": "Roman Roy",
+    "categoryId": "dizi_global",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Succession"
+  }
+]

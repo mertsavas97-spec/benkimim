@@ -1,0 +1,959 @@
+[
+  {
+    "id": "oyun_karakter_01",
+    "text": "Mario",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Super Mario"
+  },
+  {
+    "id": "oyun_karakter_02",
+    "text": "Luigi",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Super Mario"
+  },
+  {
+    "id": "oyun_karakter_03",
+    "text": "Pikachu",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pokémon"
+  },
+  {
+    "id": "oyun_karakter_04",
+    "text": "Sonic",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sonic the Hedgehog"
+  },
+  {
+    "id": "oyun_karakter_05",
+    "text": "Link",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Legend of Zelda"
+  },
+  {
+    "id": "oyun_karakter_06",
+    "text": "Zelda",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Legend of Zelda"
+  },
+  {
+    "id": "oyun_karakter_07",
+    "text": "Kratos",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "God of War"
+  },
+  {
+    "id": "oyun_karakter_08",
+    "text": "Lara Croft",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Tomb Raider"
+  },
+  {
+    "id": "oyun_karakter_09",
+    "text": "Master Chief",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Halo"
+  },
+  {
+    "id": "oyun_karakter_10",
+    "text": "Pac-Man",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sarı nokta avcısı · arcade"
+  },
+  {
+    "id": "oyun_karakter_11",
+    "text": "Donkey Kong",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Varil atan goril · Nintendo"
+  },
+  {
+    "id": "oyun_karakter_12",
+    "text": "Kirby",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pembe yuvarlak · emici"
+  },
+  {
+    "id": "oyun_karakter_13",
+    "text": "Bowser",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Super Mario"
+  },
+  {
+    "id": "oyun_karakter_14",
+    "text": "Yoshi",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Super Mario"
+  },
+  {
+    "id": "oyun_karakter_15",
+    "text": "Crash Bandicoot",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Keseli sıçan · platform"
+  },
+  {
+    "id": "oyun_karakter_16",
+    "text": "Spyro",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mor ejderha · platform"
+  },
+  {
+    "id": "oyun_karakter_17",
+    "text": "Solid Snake",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Metal Gear"
+  },
+  {
+    "id": "oyun_karakter_18",
+    "text": "Cloud Strife",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Final Fantasy VII"
+  },
+  {
+    "id": "oyun_karakter_19",
+    "text": "Geralt of Rivia",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Witcher"
+  },
+  {
+    "id": "oyun_karakter_20",
+    "text": "Steve (Minecraft)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Minecraft"
+  },
+  {
+    "id": "oyun_karakter_21",
+    "text": "Creeper",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Minecraft"
+  },
+  {
+    "id": "oyun_karakter_22",
+    "text": "Ezio Auditore",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Assassin's Creed"
+  },
+  {
+    "id": "oyun_karakter_23",
+    "text": "Nathan Drake",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Uncharted"
+  },
+  {
+    "id": "oyun_karakter_24",
+    "text": "Aloy",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Horizon Zero Dawn"
+  },
+  {
+    "id": "oyun_karakter_25",
+    "text": "Ellie",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_26",
+    "text": "Joel",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_27",
+    "text": "Arthur Morgan",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Red Dead Redemption 2"
+  },
+  {
+    "id": "oyun_karakter_28",
+    "text": "Charizard",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pokémon"
+  },
+  {
+    "id": "oyun_karakter_29",
+    "text": "Ash Ketchum",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pokémon"
+  },
+  {
+    "id": "oyun_karakter_30",
+    "text": "Princess Peach",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Super Mario"
+  },
+  {
+    "id": "oyun_karakter_31",
+    "text": "Samus Aran",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Metroid"
+  },
+  {
+    "id": "oyun_karakter_32",
+    "text": "Ganondorf",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Legend of Zelda"
+  },
+  {
+    "id": "oyun_karakter_33",
+    "text": "Gordon Freeman",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Half-Life"
+  },
+  {
+    "id": "oyun_karakter_34",
+    "text": "CJ (GTA San Andreas)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "GTA San Andreas"
+  },
+  {
+    "id": "oyun_karakter_35",
+    "text": "Trevor Phillips",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "GTA V"
+  },
+  {
+    "id": "oyun_karakter_36",
+    "text": "Michael De Santa",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "GTA V"
+  },
+  {
+    "id": "oyun_karakter_37",
+    "text": "Franklin Clinton",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "GTA V"
+  },
+  {
+    "id": "oyun_karakter_38",
+    "text": "Scorpion",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mortal Kombat"
+  },
+  {
+    "id": "oyun_karakter_39",
+    "text": "Sub-Zero",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mortal Kombat"
+  },
+  {
+    "id": "oyun_karakter_40",
+    "text": "Ryu",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Street Fighter"
+  },
+  {
+    "id": "oyun_karakter_41",
+    "text": "Chun-Li",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Street Fighter"
+  },
+  {
+    "id": "oyun_karakter_42",
+    "text": "Sonic — Tails",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sonic the Hedgehog"
+  },
+  {
+    "id": "oyun_karakter_43",
+    "text": "Knuckles",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Sonic the Hedgehog"
+  },
+  {
+    "id": "oyun_karakter_44",
+    "text": "Mega Man",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mavi robot · Capcom"
+  },
+  {
+    "id": "oyun_karakter_45",
+    "text": "Altaïr",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Assassin's Creed"
+  },
+  {
+    "id": "oyun_karakter_46",
+    "text": "Jin Sakai",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Ghost of Tsushima"
+  },
+  {
+    "id": "oyun_karakter_47",
+    "text": "Joker (Persona)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Persona"
+  },
+  {
+    "id": "oyun_karakter_48",
+    "text": "V (Cyberpunk)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Cyberpunk"
+  },
+  {
+    "id": "oyun_karakter_49",
+    "text": "Kratos — Atreus",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "God of War"
+  },
+  {
+    "id": "oyun_karakter_50",
+    "text": "Dante (Devil May Cry)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Devil May Cry"
+  },
+  {
+    "id": "oyun_karakter_51",
+    "text": "Sephiroth",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Final Fantasy VII"
+  },
+  {
+    "id": "oyun_karakter_52",
+    "text": "Mordin Solus",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mass Effect"
+  },
+  {
+    "id": "oyun_karakter_53",
+    "text": "GLaDOS",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Portal"
+  },
+  {
+    "id": "oyun_karakter_54",
+    "text": "Handsome Jack",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Borderlands"
+  },
+  {
+    "id": "oyun_karakter_55",
+    "text": "Cortana",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Halo"
+  },
+  {
+    "id": "oyun_karakter_56",
+    "text": "Commander Shepard",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Mass Effect"
+  },
+  {
+    "id": "oyun_karakter_57",
+    "text": "Aloy — Rost",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Horizon Zero Dawn"
+  },
+  {
+    "id": "oyun_karakter_58",
+    "text": "2B (Nier)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Nier"
+  },
+  {
+    "id": "oyun_karakter_59",
+    "text": "Hornet (Hollow Knight)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Hollow Knight"
+  },
+  {
+    "id": "oyun_karakter_60",
+    "text": "Isaac Clarke",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Dead Space"
+  },
+  {
+    "id": "oyun_karakter_61",
+    "text": "Ganon",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Legend of Zelda"
+  },
+  {
+    "id": "oyun_karakter_62",
+    "text": "Samus",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Metroid"
+  },
+  {
+    "id": "oyun_karakter_63",
+    "text": "Tails",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sonic the Hedgehog"
+  },
+  {
+    "id": "oyun_karakter_64",
+    "text": "Eggman",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Sonic the Hedgehog"
+  },
+  {
+    "id": "oyun_karakter_65",
+    "text": "Tifa",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Final Fantasy VII"
+  },
+  {
+    "id": "oyun_karakter_66",
+    "text": "Aerith",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Final Fantasy VII"
+  },
+  {
+    "id": "oyun_karakter_67",
+    "text": "Sora",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kingdom Hearts"
+  },
+  {
+    "id": "oyun_karakter_68",
+    "text": "Riku",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kingdom Hearts"
+  },
+  {
+    "id": "oyun_karakter_69",
+    "text": "Kairi",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kingdom Hearts"
+  },
+  {
+    "id": "oyun_karakter_70",
+    "text": "Ciri",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Witcher"
+  },
+  {
+    "id": "oyun_karakter_71",
+    "text": "Yennefer",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Witcher"
+  },
+  {
+    "id": "oyun_karakter_72",
+    "text": "Ellie TLOU",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_73",
+    "text": "Joel TLOU",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_74",
+    "text": "Abby",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_75",
+    "text": "Big Boss",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Metal Gear"
+  },
+  {
+    "id": "oyun_karakter_76",
+    "text": "Captain Price",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Call of Duty"
+  },
+  {
+    "id": "oyun_karakter_77",
+    "text": "Soap MacTavish",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Call of Duty"
+  },
+  {
+    "id": "oyun_karakter_78",
+    "text": "Ghost COD",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Call of Duty"
+  },
+  {
+    "id": "oyun_karakter_79",
+    "text": "Steve Minecraft",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Minecraft"
+  },
+  {
+    "id": "oyun_karakter_80",
+    "text": "Alex Minecraft",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Minecraft"
+  },
+  {
+    "id": "oyun_karakter_81",
+    "text": "Ellie (The Last of Us)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_82",
+    "text": "Joel (The Last of Us)",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Last of Us"
+  },
+  {
+    "id": "oyun_karakter_83",
+    "text": "John Marston",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Red Dead Redemption"
+  },
+  {
+    "id": "oyun_karakter_84",
+    "text": "Doomguy",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DOOM"
+  },
+  {
+    "id": "oyun_karakter_85",
+    "text": "Trevor Philips",
+    "categoryId": "oyun_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "GTA V"
+  },
+  {
+    "id": "oyun_karakter_86",
+    "text": "Tifa Lockhart",
+    "categoryId": "oyun_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Final Fantasy VII"
+  },
+  {
+    "id": "oyun_karakter_87",
+    "text": "2B",
+    "categoryId": "oyun_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "NieR: Automata"
+  }
+]

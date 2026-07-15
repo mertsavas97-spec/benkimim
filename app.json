@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "Ben Kimim",
+    "slug": "benkimim",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "benkimim",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#12141A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.benkimim.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSMotionUsageDescription": "Telefonu eğerek doğru ve pas vermek için hareket sensörü kullanılır."
+      },
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.benkimim.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#12141A",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "backgroundColor": "#12141A",
+      "themeColor": "#F0B429"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-screen-orientation",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-4628962707131944~9097764961",
+          "iosAppId": "ca-app-pub-4628962707131944~9097764961"
+        }
+      ],
+      "expo-iap"
+    ],
+    "extra": {
+      "iapPremiumProductId": "com.benkimim.app.premium_lifetime",
+      "legalSiteBase": "https://mertsavas97-spec.github.io/benkimim",
+      "privacyPolicyUrl": "https://mertsavas97-spec.github.io/benkimim/privacy/",
+      "supportUrl": "https://mertsavas97-spec.github.io/benkimim/support/",
+      "termsUrl": "https://mertsavas97-spec.github.io/benkimim/terms/",
+      "admobPublisherId": "4628962707131944",
+      "admobAppId": "ca-app-pub-4628962707131944~9097764961",
+      "admobBannerUnitId": "ca-app-pub-4628962707131944/3039743218",
+      "admobInterstitialUnitId": "ca-app-pub-4628962707131944/9176253648",
+      "admobRewardedUnitId": "ca-app-pub-4628962707131944/3311205951"
+    }
+  }
+}

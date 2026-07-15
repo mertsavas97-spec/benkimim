@@ -1,0 +1,817 @@
+[
+  {
+    "id": "yolculuk_01",
+    "text": "Valiz",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧳"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_02",
+    "text": "Pasaport",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛂"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_03",
+    "text": "Bilet",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_04",
+    "text": "Uçak",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "✈️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_05",
+    "text": "Otobüs",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚌"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_06",
+    "text": "Tren",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚆"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_07",
+    "text": "Taksi",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚕"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_08",
+    "text": "Metro",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚇"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_09",
+    "text": "Havalimanı",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛬"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_10",
+    "text": "Terminal",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_11",
+    "text": "Check-in",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_12",
+    "text": "Boarding",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_13",
+    "text": "Koltuk numarası",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_14",
+    "text": "Kemer takmak",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_15",
+    "text": "Pencere kenarı",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_16",
+    "text": "Koridor koltuğu",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_17",
+    "text": "Otel",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏨"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_18",
+    "text": "Resepsiyon",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_19",
+    "text": "Oda anahtarı",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_20",
+    "text": "Kahvaltı büfesi",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_21",
+    "text": "Havuz",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_22",
+    "text": "Plaj",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏖️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_23",
+    "text": "Güneş kremi",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_24",
+    "text": "Şapka",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_25",
+    "text": "Harita",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🗺️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_26",
+    "text": "Navigasyon",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_27",
+    "text": "Yol",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_28",
+    "text": "Trafik",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_29",
+    "text": "Mola yeri",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_30",
+    "text": "Benzinlik",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_31",
+    "text": "Bavul kaybolmak",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_32",
+    "text": "Şarj aleti unutmak",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_33",
+    "text": "Su şişesi",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_34",
+    "text": "Atıştırmalık",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_35",
+    "text": "Kulaklık",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_36",
+    "text": "Kitap okumak",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_37",
+    "text": "Fotoğraf çekmek",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📸"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_38",
+    "text": "Hatıra magnet",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_39",
+    "text": "Tur rehberi",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_40",
+    "text": "Dil karışıklığı",
+    "categoryId": "yolculuk",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_41",
+    "text": "Transit uçuş",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_42",
+    "text": "Aktarma kaçırmak",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_43",
+    "text": "Kapı değişikliği",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_44",
+    "text": "Gecikme anonsu",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_45",
+    "text": "Oversized bagaj",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_46",
+    "text": "El bagajı tartmak",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_47",
+    "text": "Visa on arrival",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yolculuk_48",
+    "text": "Sınır kapısı",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_49",
+    "text": "Gümrük beyanı",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_50",
+    "text": "Duty free",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_51",
+    "text": "Uçak yemeği",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_52",
+    "text": "Jet lag",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_53",
+    "text": "Hostel yatağı",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_54",
+    "text": "All inclusive",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_55",
+    "text": "Erken check-in",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_56",
+    "text": "Geç check-out",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_57",
+    "text": "Oda servisi",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_58",
+    "text": "Minibar hesabı",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_59",
+    "text": "Şehir turu",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_60",
+    "text": "Müze bileti",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_61",
+    "text": "Kiralık araba",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_62",
+    "text": "Park cezası",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_63",
+    "text": "Köprü geçişi",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yolculuk_64",
+    "text": "Feribot",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "⛴️"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "yolculuk_65",
+    "text": "Kamp çadırı",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "⛺"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_66",
+    "text": "Uyku tulumu",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_67",
+    "text": "Trekking rotası",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_68",
+    "text": "Gün batımı noktası",
+    "categoryId": "yolculuk",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_69",
+    "text": "Layover oteli",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_70",
+    "text": "Mile bozmak",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_71",
+    "text": "Lounge erişimi",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_72",
+    "text": "Upgrade umudu",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_73",
+    "text": "Overbooking",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_74",
+    "text": "Missed connection formu",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_75",
+    "text": "Schengen randevusu",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "yolculuk_76",
+    "text": "E-pasaport kapısı",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_77",
+    "text": "Roaming kapamak",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_78",
+    "text": "SIM takas etmek",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_79",
+    "text": "Jet lag yemeği zamanlamak",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "yolculuk_80",
+    "text": "İade bileti kesmek",
+    "categoryId": "yolculuk",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": "film_karakter_01",
+    "text": "Harry Potter",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Büyücü · Hogwarts"
+  },
+  {
+    "id": "film_karakter_02",
+    "text": "Spider-Man",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "film_karakter_03",
+    "text": "Elsa",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Frozen"
+  },
+  {
+    "id": "film_karakter_04",
+    "text": "Batman",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "film_karakter_05",
+    "text": "Shrek",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Yeşil ogre · animasyon"
+  },
+  {
+    "id": "film_karakter_06",
+    "text": "Iron Man",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "film_karakter_07",
+    "text": "Şaban",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Tosun Paşa"
+  },
+  {
+    "id": "film_karakter_08",
+    "text": "Mahmut Hoca",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hababam Sınıfı"
+  },
+  {
+    "id": "film_karakter_09",
+    "text": "Joker",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Dark Knight"
+  },
+  {
+    "id": "film_karakter_10",
+    "text": "Yoda",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_11",
+    "text": "Hulk",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Marvel"
+  },
+  {
+    "id": "film_karakter_12",
+    "text": "Gollum",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_13",
+    "text": "Tosun Paşa",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kemal Sunal komedisi"
+  },
+  {
+    "id": "film_karakter_14",
+    "text": "Arif Işık",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "G.O.R.A."
+  },
+  {
+    "id": "film_karakter_15",
+    "text": "Darth Vader",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_16",
+    "text": "Frodo Baggins",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_17",
+    "text": "Jack Sparrow",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Karayip Korsanları"
+  },
+  {
+    "id": "film_karakter_18",
+    "text": "Neo",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Matrix"
+  },
+  {
+    "id": "film_karakter_19",
+    "text": "Forrest Gump",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Koşan adam · hayat hikâyesi"
+  },
+  {
+    "id": "film_karakter_20",
+    "text": "Hababam — Kel Mahmut",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hababam Sınıfı"
+  },
+  {
+    "id": "film_karakter_21",
+    "text": "Reyting Hamdi",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Organize İşler"
+  },
+  {
+    "id": "film_karakter_22",
+    "text": "Hercules",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Yarı tanrı · Disney"
+  },
+  {
+    "id": "film_karakter_23",
+    "text": "Wendy Darling",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Peter Pan"
+  },
+  {
+    "id": "film_karakter_24",
+    "text": "Aladdin",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Lamba · Agrabah"
+  },
+  {
+    "id": "film_karakter_25",
+    "text": "Moana",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Okyanus yolculuğu · Disney"
+  },
+  {
+    "id": "film_karakter_26",
+    "text": "Simba",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Lion King"
+  },
+  {
+    "id": "film_karakter_27",
+    "text": "Mulan",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Savaşçı · Çin efsanesi"
+  },
+  {
+    "id": "film_karakter_28",
+    "text": "Kolpaçino — Özgür",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Kolpaçino"
+  },
+  {
+    "id": "film_karakter_29",
+    "text": "Organize İşler — Asım Noyan",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Organize İşler"
+  },
+  {
+    "id": "film_karakter_30",
+    "text": "Wonder Woman",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "DC Comics"
+  },
+  {
+    "id": "film_karakter_31",
+    "text": "Vito Corleone",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Godfather"
+  },
+  {
+    "id": "film_karakter_32",
+    "text": "Güdük Necmi",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Köyden İndim Şehire"
+  },
+  {
+    "id": "film_karakter_33",
+    "text": "Indiana Jones",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Arkeolog maceracı"
+  },
+  {
+    "id": "film_karakter_34",
+    "text": "Rocky Balboa",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rocky"
+  },
+  {
+    "id": "film_karakter_35",
+    "text": "John Wick",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Suikastçı · köpek"
+  },
+  {
+    "id": "film_karakter_36",
+    "text": "Katniss Everdeen",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Hunger Games"
+  },
+  {
+    "id": "film_karakter_37",
+    "text": "Hermione Granger",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Harry Potter"
+  },
+  {
+    "id": "film_karakter_38",
+    "text": "Ron Weasley",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Harry Potter"
+  },
+  {
+    "id": "film_karakter_39",
+    "text": "Turist Ömer",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Yeşilçam komedisi"
+  },
+  {
+    "id": "film_karakter_40",
+    "text": "Cafer",
+    "categoryId": "film_karakter",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Vizontele"
+  },
+  {
+    "id": "film_karakter_41",
+    "text": "Hannibal Lecter",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Silence of the Lambs"
+  },
+  {
+    "id": "film_karakter_42",
+    "text": "Marty McFly",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Back to the Future"
+  },
+  {
+    "id": "film_karakter_43",
+    "text": "Doc Brown",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Back to the Future"
+  },
+  {
+    "id": "film_karakter_44",
+    "text": "Ellen Ripley",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Alien"
+  },
+  {
+    "id": "film_karakter_45",
+    "text": "Lara Croft",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Tomb Raider"
+  },
+  {
+    "id": "film_karakter_46",
+    "text": "James Bond",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Ajan 007"
+  },
+  {
+    "id": "film_karakter_47",
+    "text": "Vizontele — Emin",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Vizontele"
+  },
+  {
+    "id": "film_karakter_48",
+    "text": "G.O.R.A. — Komutan Logar",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "G.O.R.A."
+  },
+  {
+    "id": "film_karakter_49",
+    "text": "Terminator",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Terminator"
+  },
+  {
+    "id": "film_karakter_50",
+    "text": "Maximus",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Gladiator"
+  },
+  {
+    "id": "film_karakter_51",
+    "text": "Tony Montana",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Scarface"
+  },
+  {
+    "id": "film_karakter_52",
+    "text": "Hababam — Damat Ferit",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hababam Sınıfı"
+  },
+  {
+    "id": "film_karakter_53",
+    "text": "Kalem Şakir",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hababam Sınıfı"
+  },
+  {
+    "id": "film_karakter_54",
+    "text": "Recep İvedik",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk komedi filmleri"
+  },
+  {
+    "id": "film_karakter_55",
+    "text": "Amélie Poulain",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Amélie"
+  },
+  {
+    "id": "film_karakter_56",
+    "text": "Hababam — Hayri",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Hababam Sınıfı"
+  },
+  {
+    "id": "film_karakter_57",
+    "text": "Tyler Durden",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Fight Club"
+  },
+  {
+    "id": "film_karakter_58",
+    "text": "Andy Dufresne",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "The Shawshank Redemption"
+  },
+  {
+    "id": "film_karakter_59",
+    "text": "Donnie Darko",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Zaman döngüsü · korku"
+  },
+  {
+    "id": "film_karakter_60",
+    "text": "Babam ve Oğlum — Sadık",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Babam ve Oğlum"
+  },
+  {
+    "id": "film_karakter_61",
+    "text": "Trinity",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Matrix"
+  },
+  {
+    "id": "film_karakter_62",
+    "text": "Morpheus",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Matrix"
+  },
+  {
+    "id": "film_karakter_63",
+    "text": "Gandalf",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_64",
+    "text": "Frodo",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_65",
+    "text": "Aragorn",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_66",
+    "text": "Legolas",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_67",
+    "text": "Gimli",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_68",
+    "text": "Saruman",
+    "categoryId": "film_karakter",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzüklerin Efendisi"
+  },
+  {
+    "id": "film_karakter_69",
+    "text": "Voldemort",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Harry Potter"
+  },
+  {
+    "id": "film_karakter_70",
+    "text": "Dumbledore",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Harry Potter"
+  },
+  {
+    "id": "film_karakter_71",
+    "text": "Hermione",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Harry Potter"
+  },
+  {
+    "id": "film_karakter_72",
+    "text": "Peeta",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "The Hunger Games"
+  },
+  {
+    "id": "film_karakter_73",
+    "text": "Han Solo",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_74",
+    "text": "Leia",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_75",
+    "text": "Luke Skywalker",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_76",
+    "text": "Rey",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_77",
+    "text": "Kylo Ren",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Star Wars"
+  },
+  {
+    "id": "film_karakter_78",
+    "text": "Elizabeth Swann",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Karayip Korsanları"
+  },
+  {
+    "id": "film_karakter_79",
+    "text": "Will Turner",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Karayip Korsanları"
+  },
+  {
+    "id": "film_karakter_80",
+    "text": "Jules Winnfield",
+    "categoryId": "film_karakter",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Pulp Fiction"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sarki_01",
+    "text": "Billie Jean",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_02",
+    "text": "Isabella",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_03",
+    "text": "Şımarık",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_04",
+    "text": "Shape of You",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_05",
+    "text": "Bohemian Rhapsody",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_06",
+    "text": "Gülpembe",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_07",
+    "text": "Dudu",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_08",
+    "text": "Wonderwall",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_09",
+    "text": "Hotel California",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_10",
+    "text": "Hatırla Sevgili",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_11",
+    "text": "Don't Stop Believin'",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_12",
+    "text": "Yalnızlık Senfonisi",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_13",
+    "text": "Sweet Child O' Mine",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_14",
+    "text": "Kolay Gelsin",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_15",
+    "text": "Yesterday",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_16",
+    "text": "Haydi Söyle",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_17",
+    "text": "Smells Like Teen Spirit",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_18",
+    "text": "Kış Güneşi",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_19",
+    "text": "Someone Like You",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_20",
+    "text": "Seninle Bir Dakika",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_21",
+    "text": "Despacito",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_22",
+    "text": "Ölürüm Sana",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_23",
+    "text": "Happy",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_24",
+    "text": "Sevda Gözleri",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_25",
+    "text": "I Will Always Love You",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_26",
+    "text": "Cumartesi",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_27",
+    "text": "Uptown Funk",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_28",
+    "text": "Kuzu Kuzu",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_29",
+    "text": "Rolling in the Deep",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_30",
+    "text": "Dönence",
+    "categoryId": "sarki",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_31",
+    "text": "Livin' on a Prayer",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_32",
+    "text": "Bana Bir Masal Anlat Baba",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_33",
+    "text": "Sweet Caroline",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_34",
+    "text": "Ah Bir Ataş Ver",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_35",
+    "text": "Piano Man",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_36",
+    "text": "Unutama Beni",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_37",
+    "text": "Total Eclipse of the Heart",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_38",
+    "text": "Firuze",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_39",
+    "text": "Take Me Home, Country Roads",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_40",
+    "text": "Rüzgar",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_41",
+    "text": "Hey Jude",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_42",
+    "text": "Allah Allah",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_43",
+    "text": "Creep",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_44",
+    "text": "Haydi Bastır",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_45",
+    "text": "Fix You",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_46",
+    "text": "Ben Yanarım",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_47",
+    "text": "Zombie",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_48",
+    "text": "Yalnızlık",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_49",
+    "text": "Numb",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_50",
+    "text": "Bu Kalp Seni Unutur mu",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_51",
+    "text": "Let It Be",
+    "categoryId": "sarki",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_52",
+    "text": "Sarı Çizmeli Mehmet Ağa",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_53",
+    "text": "Comfortably Numb",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_54",
+    "text": "Resimdeki Gözyaşları",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_55",
+    "text": "Under Pressure",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_56",
+    "text": "Pişmanım",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_57",
+    "text": "Nothing Else Matters",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_58",
+    "text": "Sevdanın Son Vuruşu",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sarki_59",
+    "text": "Mr. Brightside",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sarki_60",
+    "text": "Tutamadım Ellerini",
+    "categoryId": "sarki",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  }
+]

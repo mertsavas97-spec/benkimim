@@ -1,0 +1,810 @@
+[
+  {
+    "id": "mutfak_tr_01",
+    "text": "Mercimek çorbası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_02",
+    "text": "Ezogelin",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_03",
+    "text": "Yayla çorbası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_04",
+    "text": "Tarhana",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_05",
+    "text": "İşkembe",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_06",
+    "text": "Menemen",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_07",
+    "text": "Sucuklu yumurta",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_08",
+    "text": "Pastırmalı yumurta",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_09",
+    "text": "Simit",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥨"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_10",
+    "text": "Poğaça",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_11",
+    "text": "Börek",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_12",
+    "text": "Su böreği",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_13",
+    "text": "Sigara böreği",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_14",
+    "text": "Gözleme",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_15",
+    "text": "Lahmacun",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_16",
+    "text": "Pide",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_17",
+    "text": "Döner",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥩"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_18",
+    "text": "İskender",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_19",
+    "text": "Adana kebap",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_20",
+    "text": "Urfa kebap",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_21",
+    "text": "Şiş",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_22",
+    "text": "Köfte",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_23",
+    "text": "İnegöl köfte",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_24",
+    "text": "Çiğ köfte",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_25",
+    "text": "Pilav",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍚"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_26",
+    "text": "Bulgur pilavı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_27",
+    "text": "Makarna",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_28",
+    "text": "Kısır",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_29",
+    "text": "Mercimek köftesi",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_30",
+    "text": "Haydari",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_31",
+    "text": "Cacık",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_32",
+    "text": "Atom",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_33",
+    "text": "Turşu",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_34",
+    "text": "Zeytinyağlı yaprak sarma",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_35",
+    "text": "Dolma",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_36",
+    "text": "Karnıyarık",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_37",
+    "text": "İmam bayıldı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_38",
+    "text": "Fasulye piyaz",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_39",
+    "text": "Patlıcan salatası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_40",
+    "text": "Çoban salata",
+    "categoryId": "mutfak_tr",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥗"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_41",
+    "text": "Hünkâr beğendi",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_42",
+    "text": "Ali nazik",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_43",
+    "text": "Tandır",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_44",
+    "text": "Kuzu çevirme",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_45",
+    "text": "Kabak tatlısı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_46",
+    "text": "Aşure",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥣"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_47",
+    "text": "Güllaç",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_48",
+    "text": "Baklava",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍯"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_49",
+    "text": "Şöbiyet",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_50",
+    "text": "Fıstıklı katmer",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_51",
+    "text": "Hatay künefe",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_52",
+    "text": "Antep baklavası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_53",
+    "text": "Lokma",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_54",
+    "text": "Tulumba",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_55",
+    "text": "Kemalpaşa",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_56",
+    "text": "Höşmerim",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_57",
+    "text": "Keşkek",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_58",
+    "text": "Mantı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥟"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_59",
+    "text": "Erzincan tulum",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_60",
+    "text": "Van otlu peyniri",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_61",
+    "text": "Maraş dondurması",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍦"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_62",
+    "text": "Çerkes tavuğu",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_63",
+    "text": "İçli köfte",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_64",
+    "text": "Mumbar",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_65",
+    "text": "Kokoreç",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_66",
+    "text": "Midye tava",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_67",
+    "text": "Balık ekmek",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_68",
+    "text": "Çiğ börek",
+    "categoryId": "mutfak_tr",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_69",
+    "text": "Testi kebabı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_70",
+    "text": "Büryan",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_71",
+    "text": "Perde pilavı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_72",
+    "text": "Kurutulmuş patlıcan dolması",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_73",
+    "text": "Bamya çorbası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_74",
+    "text": "Madımak",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_75",
+    "text": "Isırgan otu kavurması",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_76",
+    "text": "Ciğer sarması",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_77",
+    "text": "Sırık kebabı",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_78",
+    "text": "Kalle çorbası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_79",
+    "text": "Herle",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "mutfak_tr_80",
+    "text": "Kesme çorbası",
+    "categoryId": "mutfak_tr",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  }
+]

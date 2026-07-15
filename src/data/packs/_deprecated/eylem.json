@@ -1,0 +1,820 @@
+[
+  {
+    "id": "eylem_01",
+    "text": "Diş fırçalamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪥"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_02",
+    "text": "Dans etmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💃"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_03",
+    "text": "Uyumak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_04",
+    "text": "Telefonla konuşmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_05",
+    "text": "Yemek yapmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👨‍🍳"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_06",
+    "text": "Koşmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_07",
+    "text": "Selfie çekmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🤳"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_08",
+    "text": "Kahve içmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "☕"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_09",
+    "text": "Kitap okumak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📖"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_10",
+    "text": "Müzik dinlemek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_11",
+    "text": "Yürümek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_12",
+    "text": "Gülmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😄"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_13",
+    "text": "Ağlamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_14",
+    "text": "Yüzmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_15",
+    "text": "Yemek yemek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍽️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_16",
+    "text": "Su içmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_17",
+    "text": "El yıkamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_18",
+    "text": "Saç taramak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_19",
+    "text": "Giyinmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_20",
+    "text": "Ayakkabı bağlamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_21",
+    "text": "Kapı açmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_22",
+    "text": "Zil çalmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_23",
+    "text": "Selamlaşmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_24",
+    "text": "El sıkışmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_25",
+    "text": "Öpücük atmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_26",
+    "text": "Alkışlamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👏"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_27",
+    "text": "Islık çalmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_28",
+    "text": "Şarkı söylemek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎤"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_29",
+    "text": "Çizim yapmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎨"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_30",
+    "text": "Yazı yazmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_31",
+    "text": "Temizlik yapmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_32",
+    "text": "Alışveriş yapmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_33",
+    "text": "Oyun oynamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_34",
+    "text": "Film izlemek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎬"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_35",
+    "text": "Fotoğraf çekmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📷"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_36",
+    "text": "Bahçe sulamak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_37",
+    "text": "Çiçek dikmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_38",
+    "text": "Evcil hayvan gezdirmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_39",
+    "text": "Bisiklete binmek",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_40",
+    "text": "Merdiven çıkmak",
+    "categoryId": "eylem",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_41",
+    "text": "Trafikte sinir olmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_42",
+    "text": "Asansörde sessiz kalmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_43",
+    "text": "İnternet yavaş diye kızmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_44",
+    "text": "Çantada anahtar aramak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_45",
+    "text": "Alarm ertelemek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_46",
+    "text": "Paket sipariş vermek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_47",
+    "text": "Toplantıda uyuklamak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_48",
+    "text": "E-posta yığılınca paniklemek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_49",
+    "text": "Şarj aramak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_50",
+    "text": "Otobüste yer vermek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_51",
+    "text": "Komşuya merhaba demek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_52",
+    "text": "Pazarlık yapmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_53",
+    "text": "Kuyrukta beklemek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_54",
+    "text": "Randevu ertelemek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_55",
+    "text": "Not almak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_56",
+    "text": "Sunum yapmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_57",
+    "text": "Maça gitmek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_58",
+    "text": "Konser bileti aramak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_59",
+    "text": "Çamaşır asmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_60",
+    "text": "Ütü yapmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_61",
+    "text": "Halı silizlemek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_62",
+    "text": "Balkon sulamak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_63",
+    "text": "Market listesi yazmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_64",
+    "text": "İndirim kovalamak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_65",
+    "text": "Otopark yeri aramak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_66",
+    "text": "Kargo takip etmek",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_67",
+    "text": "Şifre unutmak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_68",
+    "text": "Ekran süresi ayarlamak",
+    "categoryId": "eylem",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_69",
+    "text": "Komşuya emanet bırakmak",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_70",
+    "text": "Wi-Fi şifresi istemek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_71",
+    "text": "Vergi beyannamesi doldurmak",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_72",
+    "text": "Emlakçıyla pazarlık etmek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_73",
+    "text": "Pasaport yenilemek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_74",
+    "text": "Vize randevusu almak",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_75",
+    "text": "Sigorta hasarı bildirmek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_76",
+    "text": "Kat malikleri toplantısına girmek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_77",
+    "text": "Notere gitmek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "eylem_78",
+    "text": "İK görüşmesine çıkmak",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_79",
+    "text": "Mentorluk istemek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "eylem_80",
+    "text": "Feedback vermek",
+    "categoryId": "eylem",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "name": "benkimim",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "lint": "expo lint App.tsx index.ts src",
+    "smoke:engine": "npx --yes tsx scripts/engine-smoke.ts",
+    "audit:hints": "npx --yes tsx scripts/audit-card-hints.ts"
+  },
+  "dependencies": {
+    "@expo-google-fonts/archivo-black": "^0.4.1",
+    "@expo-google-fonts/bricolage-grotesque": "^0.4.1",
+    "@expo-google-fonts/source-sans-3": "^0.4.1",
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.4",
+    "expo-constants": "~57.0.3",
+    "expo-font": "~57.0.0",
+    "expo-haptics": "~57.0.0",
+    "expo-iap": "^4.5.0",
+    "expo-keep-awake": "~57.0.0",
+    "expo-linear-gradient": "~57.0.0",
+    "expo-screen-orientation": "~57.0.0",
+    "expo-sensors": "~57.0.1",
+    "expo-status-bar": "~57.0.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.0",
+    "react-native-google-mobile-ads": "^16.4.0",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.2"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~57.0.0",
+    "typescript": "~6.0.3"
+  }
+}

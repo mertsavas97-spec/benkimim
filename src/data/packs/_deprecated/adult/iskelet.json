@@ -1,0 +1,482 @@
+[
+  {
+    "id": "adult_01",
+    "text": "Flört oyunbazı",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_02",
+    "text": "Okundu bırakan",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_03",
+    "text": "Hesabı bölen",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_04",
+    "text": "Gece kuşu",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "neutral",
+    "region": "both"
+  },
+  {
+    "id": "adult_05",
+    "text": "Sohbet kaçkını",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_06",
+    "text": "İlk mesaj şampiyonu",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_07",
+    "text": "Emoji flooding uzmanı",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_08",
+    "text": "Ghosting şüphelisi",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_09",
+    "text": "Grup sohbet admini",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "neutral",
+    "region": "both"
+  },
+  {
+    "id": "adult_10",
+    "text": "Story stalker",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_11",
+    "text": "İlk buluşma kaçağı",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_12",
+    "text": "Aşırı samimi abla/abi",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_13",
+    "text": "Kanka zone avukatı",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_14",
+    "text": "Ex stalker (masum iddia)",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_15",
+    "text": "Flört çevirmeni",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_16",
+    "text": "Anonim crush sahibi",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_17",
+    "text": "Parti duvar çiçeği",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_18",
+    "text": "Dans pisti kralı/kraliçesi",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_19",
+    "text": "Sarhoş filozof",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_20",
+    "text": "Karaoke zorbası",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_21",
+    "text": "Gece yarısı itirafçı",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_22",
+    "text": "Tinder biyografi yazarı",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_23",
+    "text": "İlişki koçu (gönüllü)",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_24",
+    "text": "Kıskanç partner arketipleri",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_25",
+    "text": "Toxik pozitiflik tipı",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_26",
+    "text": "Red flag dedektifi",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_27",
+    "text": "Green flag performansçısı",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_28",
+    "text": "Situationship uzmanı",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_29",
+    "text": "Breadcrumbing sanatçısı",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_30",
+    "text": "Orbiting efsanesi",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_31",
+    "text": "Soft launch paparazzisi",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_32",
+    "text": "Hard launch romantigi",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_33",
+    "text": "Attachment tip spekülatörü",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_34",
+    "text": "Love bomber karikatürü",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_35",
+    "text": "Benching koçu",
+    "categoryId": "adult",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_36",
+    "text": "Slow burn romantist",
+    "categoryId": "adult",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "flirty",
+    "region": "both"
+  },
+  {
+    "id": "adult_37",
+    "text": "Hızlı reply bağımlısı",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "neutral",
+    "region": "both"
+  },
+  {
+    "id": "adult_38",
+    "text": "Seen atıcı stratejist",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "awkward",
+    "region": "both"
+  },
+  {
+    "id": "adult_39",
+    "text": "Voice note bağırganı",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  },
+  {
+    "id": "adult_40",
+    "text": "Gif cevaplayan",
+    "categoryId": "adult",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "adult": true,
+    "tone": "witty",
+    "region": "both"
+  }
+]

@@ -1,0 +1,820 @@
+[
+  {
+    "id": "ev_01",
+    "text": "Yastık",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛏️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_02",
+    "text": "Buzdolabı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "❄️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_03",
+    "text": "Süpürge",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_04",
+    "text": "Çaydanlık",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🫖"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "ev_05",
+    "text": "Uzaktan kumanda",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_06",
+    "text": "Duş başlığı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_07",
+    "text": "Perde",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_08",
+    "text": "Çamaşır makinesi",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_09",
+    "text": "Kanepe",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛋️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_10",
+    "text": "Masa",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_11",
+    "text": "Sandalye",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_12",
+    "text": "Ayna",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪞"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_13",
+    "text": "Lamba",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💡"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_14",
+    "text": "Kapı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🚪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_15",
+    "text": "Pencere",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪟"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_16",
+    "text": "Halı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_17",
+    "text": "Battaniye",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_18",
+    "text": "Çarşaf",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_19",
+    "text": "Havlu",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_20",
+    "text": "Diş fırçası",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🪥"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_21",
+    "text": "Sabun",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧼"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_22",
+    "text": "Şampuan",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_23",
+    "text": "Tuvalet kağıdı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧻"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_24",
+    "text": "Çöp kutusu",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_25",
+    "text": "Anahtar",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_26",
+    "text": "Askı",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_27",
+    "text": "Ütü",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_28",
+    "text": "Mikrodalga",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_29",
+    "text": "Fırın",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_30",
+    "text": "Ocak",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_31",
+    "text": "Tava",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_32",
+    "text": "Tencere",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_33",
+    "text": "Tabak",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍽️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_34",
+    "text": "Bardak",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥛"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_35",
+    "text": "Çatal",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🍴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_36",
+    "text": "Kaşık",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_37",
+    "text": "Bıçak",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_38",
+    "text": "Saat",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🕐"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_39",
+    "text": "Vazo",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_40",
+    "text": "Çerçeve",
+    "categoryId": "ev",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🖼️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_41",
+    "text": "Tost makinesi",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "ev_42",
+    "text": "Mandallar",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_43",
+    "text": "Ayakkabılık",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_44",
+    "text": "Bulaşık süngeri",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_45",
+    "text": "Rulo bant",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_46",
+    "text": "Kapı stoperi",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_47",
+    "text": "Bulaşık makinesi",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_48",
+    "text": "Rende",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_49",
+    "text": "Süzgeç",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_50",
+    "text": "Kek kalıbı",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_51",
+    "text": "Ütü masası",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_52",
+    "text": "Çamaşır sepeti",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_53",
+    "text": "Kırlent",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_54",
+    "text": "Nevresim takımı",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_55",
+    "text": "Yorgan",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_56",
+    "text": "Komodin",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_57",
+    "text": "Gardrop",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_58",
+    "text": "Kitaplık",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_59",
+    "text": "Televizyon ünitesi",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_60",
+    "text": "Avize",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_61",
+    "text": "Priz",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_62",
+    "text": "Uzatma kablosu",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_63",
+    "text": "Termos",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_64",
+    "text": "French press",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_65",
+    "text": "Spatula",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_66",
+    "text": "Banyo dolabı",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_67",
+    "text": "Çöp torbası",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_68",
+    "text": "Oklava",
+    "categoryId": "ev",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_69",
+    "text": "Paspas",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_70",
+    "text": "Fiş adaptörü",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_71",
+    "text": "Su arıtma sürahisi",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_72",
+    "text": "Nem ölçer",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_73",
+    "text": "Kablo düzenleyici",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_74",
+    "text": "Yorgan tokası",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_75",
+    "text": "Lavabo süzgeci",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_76",
+    "text": "Bulaşık telası",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "ev_77",
+    "text": "Vantilatör",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_78",
+    "text": "Sürgülü merdiven",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_79",
+    "text": "Kapı zili",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "ev_80",
+    "text": "Kireç çözücü",
+    "categoryId": "ev",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

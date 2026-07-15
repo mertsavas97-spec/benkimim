@@ -1,0 +1,871 @@
+[
+  {
+    "id": "tarih_kisi_01",
+    "text": "Atatürk",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye tarihi"
+  },
+  {
+    "id": "tarih_kisi_02",
+    "text": "Fatih Sultan Mehmet",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı padişahı"
+  },
+  {
+    "id": "tarih_kisi_03",
+    "text": "Yavuz Sultan Selim",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı padişahı"
+  },
+  {
+    "id": "tarih_kisi_04",
+    "text": "Kanuni Sultan Süleyman",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı padişahı"
+  },
+  {
+    "id": "tarih_kisi_05",
+    "text": "Barbaros Hayreddin",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı denizci"
+  },
+  {
+    "id": "tarih_kisi_06",
+    "text": "Piri Reis",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı kaşif"
+  },
+  {
+    "id": "tarih_kisi_07",
+    "text": "Mimar Sinan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı mimar"
+  },
+  {
+    "id": "tarih_kisi_08",
+    "text": "Evliya Çelebi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı gezgin"
+  },
+  {
+    "id": "tarih_kisi_09",
+    "text": "Yunus Emre",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk şair"
+  },
+  {
+    "id": "tarih_kisi_10",
+    "text": "Mevlana",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk şair"
+  },
+  {
+    "id": "tarih_kisi_11",
+    "text": "Hacı Bektaş",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk düşünür"
+  },
+  {
+    "id": "tarih_kisi_12",
+    "text": "Nasreddin Hoca",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk halk kahramanı"
+  },
+  {
+    "id": "tarih_kisi_13",
+    "text": "Köroğlu",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk efsanesi"
+  },
+  {
+    "id": "tarih_kisi_14",
+    "text": "Alparslan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Selçuklu sultanı"
+  },
+  {
+    "id": "tarih_kisi_15",
+    "text": "Osman Gazi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı kurucusu"
+  },
+  {
+    "id": "tarih_kisi_16",
+    "text": "Orhan Gazi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı padişahı"
+  },
+  {
+    "id": "tarih_kisi_17",
+    "text": "Fatih",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı padişahı"
+  },
+  {
+    "id": "tarih_kisi_18",
+    "text": "Cem Sultan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı şehzade"
+  },
+  {
+    "id": "tarih_kisi_19",
+    "text": "Hürrem Sultan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı"
+  },
+  {
+    "id": "tarih_kisi_20",
+    "text": "Kösem Sultan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı valide sultan"
+  },
+  {
+    "id": "tarih_kisi_21",
+    "text": "Sokullu Mehmet Paşa",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı sadrazam"
+  },
+  {
+    "id": "tarih_kisi_22",
+    "text": "Pargalı İbrahim",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı sadrazam"
+  },
+  {
+    "id": "tarih_kisi_23",
+    "text": "Şeyh Edebali",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı alim"
+  },
+  {
+    "id": "tarih_kisi_24",
+    "text": "İsmet İnönü",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye Cumhuriyeti"
+  },
+  {
+    "id": "tarih_kisi_25",
+    "text": "Celal Bayar",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye Cumhuriyeti"
+  },
+  {
+    "id": "tarih_kisi_26",
+    "text": "Adnan Menderes",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye Cumhuriyeti"
+  },
+  {
+    "id": "tarih_kisi_27",
+    "text": "Turgut Özal",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye Cumhuriyeti"
+  },
+  {
+    "id": "tarih_kisi_28",
+    "text": "Bülent Ecevit",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türkiye Cumhuriyeti"
+  },
+  {
+    "id": "tarih_kisi_29",
+    "text": "Cleopatra",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Mısır"
+  },
+  {
+    "id": "tarih_kisi_30",
+    "text": "Julius Caesar",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Roma"
+  },
+  {
+    "id": "tarih_kisi_31",
+    "text": "Alexander the Great",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik çağ"
+  },
+  {
+    "id": "tarih_kisi_32",
+    "text": "Aristoteles",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Yunan filozof"
+  },
+  {
+    "id": "tarih_kisi_33",
+    "text": "Platon",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Yunan filozof"
+  },
+  {
+    "id": "tarih_kisi_34",
+    "text": "Sokrates",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Yunan filozof"
+  },
+  {
+    "id": "tarih_kisi_35",
+    "text": "Homeros",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Yunan şair"
+  },
+  {
+    "id": "tarih_kisi_36",
+    "text": "Herodot",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Yunan tarihçi"
+  },
+  {
+    "id": "tarih_kisi_37",
+    "text": "Leonardo da Vinci",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Rönesans sanatçı"
+  },
+  {
+    "id": "tarih_kisi_38",
+    "text": "Michelangelo",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Rönesans sanatçı"
+  },
+  {
+    "id": "tarih_kisi_39",
+    "text": "Galileo",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_40",
+    "text": "Newton",
+    "categoryId": "tarih_kisi",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_41",
+    "text": "Einstein",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_42",
+    "text": "Marie Curie",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_43",
+    "text": "Ada Lovelace",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_44",
+    "text": "Alan Turing",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_45",
+    "text": "Tesla",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_46",
+    "text": "Edison",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_47",
+    "text": "Darwin",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_48",
+    "text": "Karl Marx",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Filozof"
+  },
+  {
+    "id": "tarih_kisi_49",
+    "text": "Napoleon",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Fransız imparator"
+  },
+  {
+    "id": "tarih_kisi_50",
+    "text": "Jeanne d'Arc",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Fransız kahraman"
+  },
+  {
+    "id": "tarih_kisi_51",
+    "text": "Queen Elizabeth I",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İngiliz kraliçe"
+  },
+  {
+    "id": "tarih_kisi_52",
+    "text": "Shakespeare",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İngiliz yazar"
+  },
+  {
+    "id": "tarih_kisi_53",
+    "text": "Mozart",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Klasik müzik"
+  },
+  {
+    "id": "tarih_kisi_54",
+    "text": "Beethoven",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Klasik müzik"
+  },
+  {
+    "id": "tarih_kisi_55",
+    "text": "Bach",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Klasik müzik"
+  },
+  {
+    "id": "tarih_kisi_56",
+    "text": "Genghis Khan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Moğol imparator"
+  },
+  {
+    "id": "tarih_kisi_57",
+    "text": "Marco Polo",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kaşif"
+  },
+  {
+    "id": "tarih_kisi_58",
+    "text": "Kolomb",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kaşif"
+  },
+  {
+    "id": "tarih_kisi_59",
+    "text": "Magellan",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kaşif"
+  },
+  {
+    "id": "tarih_kisi_60",
+    "text": "Gandhi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Hindistan lideri"
+  },
+  {
+    "id": "tarih_kisi_61",
+    "text": "Mandela",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Güney Afrika lideri"
+  },
+  {
+    "id": "tarih_kisi_62",
+    "text": "Churchill",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İngiliz lider"
+  },
+  {
+    "id": "tarih_kisi_63",
+    "text": "Roosevelt",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "ABD başkanı"
+  },
+  {
+    "id": "tarih_kisi_64",
+    "text": "Lincoln",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "ABD başkanı"
+  },
+  {
+    "id": "tarih_kisi_65",
+    "text": "Washington",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "ABD başkanı"
+  },
+  {
+    "id": "tarih_kisi_66",
+    "text": "Hatshepsot",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Mısır"
+  },
+  {
+    "id": "tarih_kisi_67",
+    "text": "Ramses",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Mısır"
+  },
+  {
+    "id": "tarih_kisi_68",
+    "text": "Tutankhamun",
+    "categoryId": "tarih_kisi",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik Mısır"
+  },
+  {
+    "id": "tarih_kisi_69",
+    "text": "Hipokrat",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Antik hekim"
+  },
+  {
+    "id": "tarih_kisi_70",
+    "text": "İbn-i Sina",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İslam bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_71",
+    "text": "Farabi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İslam filozof"
+  },
+  {
+    "id": "tarih_kisi_72",
+    "text": "Biruni",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "İslam bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_73",
+    "text": "Piri",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı kaşif"
+  },
+  {
+    "id": "tarih_kisi_74",
+    "text": "Lagâri Hasan Çelebi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı mucit"
+  },
+  {
+    "id": "tarih_kisi_75",
+    "text": "Hezarfen Ahmet Çelebi",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Osmanlı mucit"
+  },
+  {
+    "id": "tarih_kisi_76",
+    "text": "Cahit Arf",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk matematikçi"
+  },
+  {
+    "id": "tarih_kisi_77",
+    "text": "Oktay Sinanoğlu",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_78",
+    "text": "Aziz Sancar",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk bilim insanı"
+  },
+  {
+    "id": "tarih_kisi_79",
+    "text": "Orhan Pamuk",
+    "categoryId": "tarih_kisi",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk yazar"
+  }
+]

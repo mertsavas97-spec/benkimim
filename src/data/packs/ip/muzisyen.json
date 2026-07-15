@@ -1,0 +1,882 @@
+[
+  {
+    "id": "muzisyen_01",
+    "text": "Tarkan",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_02",
+    "text": "Sezen Aksu",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_03",
+    "text": "Adele",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_04",
+    "text": "Michael Jackson",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_05",
+    "text": "Barış Manço",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_06",
+    "text": "Beyoncé",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_07",
+    "text": "Ajda Pekkan",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_08",
+    "text": "The Beatles",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_09",
+    "text": "Teoman",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_10",
+    "text": "Freddie Mercury",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_11",
+    "text": "Kenan Doğulu",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_12",
+    "text": "Ed Sheeran",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_13",
+    "text": "MFÖ",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_14",
+    "text": "Billie Eilish",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_15",
+    "text": "Sertab Erener",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_16",
+    "text": "Taylor Swift",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_17",
+    "text": "Müslüm Gürses",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Arabesk"
+  },
+  {
+    "id": "muzisyen_18",
+    "text": "Elvis Presley",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_19",
+    "text": "Hadise",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_20",
+    "text": "Bruno Mars",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_21",
+    "text": "Mustafa Sandal",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_22",
+    "text": "Rihanna",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_23",
+    "text": "Imagine Dragons",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_24",
+    "text": "Madonna",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_25",
+    "text": "Zeki Müren",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Klasik Türk müziği"
+  },
+  {
+    "id": "muzisyen_26",
+    "text": "Dua Lipa",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_27",
+    "text": "Ezhel",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Rap"
+  },
+  {
+    "id": "muzisyen_28",
+    "text": "The Weeknd",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_29",
+    "text": "Britney Spears",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_30",
+    "text": "Harry Styles",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_31",
+    "text": "Cem Karaca",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_32",
+    "text": "David Bowie",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_33",
+    "text": "Athena",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_34",
+    "text": "Coldplay",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_35",
+    "text": "Mor ve Ötesi",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_36",
+    "text": "Queen",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_37",
+    "text": "Şebnem Ferah",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_38",
+    "text": "Linkin Park",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_39",
+    "text": "Manga",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_40",
+    "text": "Ariana Grande",
+    "categoryId": "muzisyen",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_41",
+    "text": "Nirvana",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Grunge"
+  },
+  {
+    "id": "muzisyen_42",
+    "text": "Justin Bieber",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_43",
+    "text": "Pink",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_44",
+    "text": "Drake",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rap"
+  },
+  {
+    "id": "muzisyen_45",
+    "text": "Metallica",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Metal"
+  },
+  {
+    "id": "muzisyen_46",
+    "text": "Eminem",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rap"
+  },
+  {
+    "id": "muzisyen_47",
+    "text": "Katy Perry",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_48",
+    "text": "Lady Gaga",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_49",
+    "text": "Hande Yener",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_50",
+    "text": "Shakira",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Latin pop"
+  },
+  {
+    "id": "muzisyen_51",
+    "text": "Stevie Wonder",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Soul"
+  },
+  {
+    "id": "muzisyen_52",
+    "text": "Erkin Koray",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_53",
+    "text": "Prince",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Pop"
+  },
+  {
+    "id": "muzisyen_54",
+    "text": "Nilüfer",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_55",
+    "text": "Bob Dylan",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Folk"
+  },
+  {
+    "id": "muzisyen_56",
+    "text": "Fikret Kızılok",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_57",
+    "text": "Radiohead",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Rock"
+  },
+  {
+    "id": "muzisyen_58",
+    "text": "Kayahan",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_59",
+    "text": "Amy Winehouse",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global",
+    "hint": "Jazz"
+  },
+  {
+    "id": "muzisyen_60",
+    "text": "İbrahim Tatlıses",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_61",
+    "text": "Duman",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_62",
+    "text": "Model",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_63",
+    "text": "Rafet El Roman",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_64",
+    "text": "İzel",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_65",
+    "text": "Gülşen",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_66",
+    "text": "Sıla",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_67",
+    "text": "Simge",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_68",
+    "text": "Zeynep Bastık",
+    "categoryId": "muzisyen",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_69",
+    "text": "Edis",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_70",
+    "text": "Mabel Matiz",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_71",
+    "text": "Kalben",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_72",
+    "text": "Yalın",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_73",
+    "text": "Gripin",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_74",
+    "text": "Pinhani",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_75",
+    "text": "Seksendört",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_76",
+    "text": "Funda Arar",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_77",
+    "text": "Demet Akalın",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk müzik"
+  },
+  {
+    "id": "muzisyen_78",
+    "text": "Özlem Tekin",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk rock"
+  },
+  {
+    "id": "muzisyen_79",
+    "text": "Nazan Öncel",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  },
+  {
+    "id": "muzisyen_80",
+    "text": "Candex",
+    "categoryId": "muzisyen",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Türk pop"
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "id": "sporcu_01",
+    "text": "Arda Güler",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Real Madrid"
+  },
+  {
+    "id": "sporcu_02",
+    "text": "Hakan Çalhanoğlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_03",
+    "text": "Cenk Tosun",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Beşiktaş"
+  },
+  {
+    "id": "sporcu_04",
+    "text": "Burak Yılmaz",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_05",
+    "text": "Rıdvan Yılmaz",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Galatasaray"
+  },
+  {
+    "id": "sporcu_06",
+    "text": "Merih Demiral",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Al-Ahli"
+  },
+  {
+    "id": "sporcu_07",
+    "text": "Uğurcan Çakır",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Trabzonspor"
+  },
+  {
+    "id": "sporcu_08",
+    "text": "Altay Bayındır",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Manchester United"
+  },
+  {
+    "id": "sporcu_09",
+    "text": "Kenan Yıldız",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Juventus"
+  },
+  {
+    "id": "sporcu_10",
+    "text": "Yusuf Yazıcı",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Olympiacos"
+  },
+  {
+    "id": "sporcu_11",
+    "text": "Mesut Özil",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Almanya"
+  },
+  {
+    "id": "sporcu_12",
+    "text": "Emre Belözoğlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Fenerbahçe"
+  },
+  {
+    "id": "sporcu_13",
+    "text": "Hakan Şükür",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Galatasaray"
+  },
+  {
+    "id": "sporcu_14",
+    "text": "Rüştü Reçber",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Beşiktaş"
+  },
+  {
+    "id": "sporcu_15",
+    "text": "Tugay Kerimoğlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Galatasaray"
+  },
+  {
+    "id": "sporcu_16",
+    "text": "Metin Oktay",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Galatasaray"
+  },
+  {
+    "id": "sporcu_17",
+    "text": "Lefter Küçükandonyadis",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Fenerbahçe"
+  },
+  {
+    "id": "sporcu_18",
+    "text": "Naim Süleymanoğlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Halter · Türkiye"
+  },
+  {
+    "id": "sporcu_19",
+    "text": "Halil Mutlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Halter · Türkiye"
+  },
+  {
+    "id": "sporcu_20",
+    "text": "Kenan Sofuoğlu",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Motosiklet · Türkiye"
+  },
+  {
+    "id": "sporcu_21",
+    "text": "Yasemin Adar",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Güreş · Türkiye"
+  },
+  {
+    "id": "sporcu_22",
+    "text": "Busenaz Sürmeneli",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Boks · Türkiye"
+  },
+  {
+    "id": "sporcu_23",
+    "text": "Ramil Guliyev",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Atletizm · Türkiye"
+  },
+  {
+    "id": "sporcu_24",
+    "text": "Eda Erdem",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Voleybol · Fenerbahçe"
+  },
+  {
+    "id": "sporcu_25",
+    "text": "Neslihan Demir",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Voleybol · VakıfBank"
+  },
+  {
+    "id": "sporcu_26",
+    "text": "Filenin Sultanları kaptanı",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Voleybol · Türkiye"
+  },
+  {
+    "id": "sporcu_27",
+    "text": "Mike Tyson",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Boks"
+  },
+  {
+    "id": "sporcu_28",
+    "text": "Muhammad Ali",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Boks"
+  },
+  {
+    "id": "sporcu_29",
+    "text": "Usain Bolt",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Atletizm"
+  },
+  {
+    "id": "sporcu_30",
+    "text": "Serena Williams",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_31",
+    "text": "Roger Federer",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_32",
+    "text": "Rafael Nadal",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_33",
+    "text": "Novak Djokovic",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_34",
+    "text": "Lionel Messi",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_35",
+    "text": "Cristiano Ronaldo",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_36",
+    "text": "Kylian Mbappé",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_37",
+    "text": "Erling Haaland",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_38",
+    "text": "Neymar",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_39",
+    "text": "Pelé",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Brezilya"
+  },
+  {
+    "id": "sporcu_40",
+    "text": "Diego Maradona",
+    "categoryId": "sporcu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_41",
+    "text": "Zinedine Zidane",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol"
+  },
+  {
+    "id": "sporcu_42",
+    "text": "Thierry Henry",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Arsenal"
+  },
+  {
+    "id": "sporcu_43",
+    "text": "David Beckham",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Futbol · Manchester United"
+  },
+  {
+    "id": "sporcu_44",
+    "text": "Michael Jordan",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol"
+  },
+  {
+    "id": "sporcu_45",
+    "text": "LeBron James",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol"
+  },
+  {
+    "id": "sporcu_46",
+    "text": "Kobe Bryant",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol"
+  },
+  {
+    "id": "sporcu_47",
+    "text": "Stephen Curry",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol"
+  },
+  {
+    "id": "sporcu_48",
+    "text": "Shaquille O'Neal",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol"
+  },
+  {
+    "id": "sporcu_49",
+    "text": "Tiger Woods",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Golf"
+  },
+  {
+    "id": "sporcu_50",
+    "text": "Lewis Hamilton",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Formula 1"
+  },
+  {
+    "id": "sporcu_51",
+    "text": "Max Verstappen",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Formula 1"
+  },
+  {
+    "id": "sporcu_52",
+    "text": "Ayrton Senna",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Formula 1"
+  },
+  {
+    "id": "sporcu_53",
+    "text": "Michael Schumacher",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Formula 1"
+  },
+  {
+    "id": "sporcu_54",
+    "text": "Simone Biles",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Jimnastik"
+  },
+  {
+    "id": "sporcu_55",
+    "text": "Katie Ledecky",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzme"
+  },
+  {
+    "id": "sporcu_56",
+    "text": "Michael Phelps",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Yüzme"
+  },
+  {
+    "id": "sporcu_57",
+    "text": "Conor McGregor",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "MMA"
+  },
+  {
+    "id": "sporcu_58",
+    "text": "Jon Jones",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "MMA"
+  },
+  {
+    "id": "sporcu_59",
+    "text": "Anderson Silva",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "MMA"
+  },
+  {
+    "id": "sporcu_60",
+    "text": "Manny Pacquiao",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Boks"
+  },
+  {
+    "id": "sporcu_61",
+    "text": "Floyd Mayweather",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Boks"
+  },
+  {
+    "id": "sporcu_62",
+    "text": "Virat Kohli",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kriket · Hindistan"
+  },
+  {
+    "id": "sporcu_63",
+    "text": "Sachin Tendulkar",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Kriket · Hindistan"
+  },
+  {
+    "id": "sporcu_64",
+    "text": "Naomi Osaka",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_65",
+    "text": "Iga Świątek",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_66",
+    "text": "Carlos Alcaraz",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_67",
+    "text": "Jannik Sinner",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Tenis"
+  },
+  {
+    "id": "sporcu_68",
+    "text": "Victor Oladipo",
+    "categoryId": "sporcu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · NBA"
+  },
+  {
+    "id": "sporcu_69",
+    "text": "Caitlin Clark",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · WNBA"
+  },
+  {
+    "id": "sporcu_70",
+    "text": "Luka Dončić",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Dallas Mavericks"
+  },
+  {
+    "id": "sporcu_71",
+    "text": "Nikola Jokić",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Denver Nuggets"
+  },
+  {
+    "id": "sporcu_72",
+    "text": "Giannis Antetokounmpo",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Milwaukee Bucks"
+  },
+  {
+    "id": "sporcu_73",
+    "text": "Joel Embiid",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Philadelphia 76ers"
+  },
+  {
+    "id": "sporcu_74",
+    "text": "İbrahim Kutluay",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Fenerbahçe"
+  },
+  {
+    "id": "sporcu_75",
+    "text": "Mirsat Okan",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Türkiye"
+  },
+  {
+    "id": "sporcu_76",
+    "text": "Ersan İlyasova",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · NBA"
+  },
+  {
+    "id": "sporcu_77",
+    "text": "Ömer Aşık",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Chicago Bulls"
+  },
+  {
+    "id": "sporcu_78",
+    "text": "Semih Erden",
+    "categoryId": "sporcu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both",
+    "hint": "Basketbol · Fenerbahçe"
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "id": "okul_01",
+    "text": "Sınav",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📝"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_02",
+    "text": "Öğretmen",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👩‍🏫"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_03",
+    "text": "Defter",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_04",
+    "text": "Teneffüs",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_05",
+    "text": "Kantina gitmek",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🥪"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_06",
+    "text": "Ödev",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_07",
+    "text": "Sınıf",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_08",
+    "text": "Çanta",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎒"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_09",
+    "text": "Kalem",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "✏️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_10",
+    "text": "Silgi",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_11",
+    "text": "Cetvel",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_12",
+    "text": "Kitap",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📚"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_13",
+    "text": "Tahta",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_14",
+    "text": "Tebeşir",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_15",
+    "text": "Sıra",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_16",
+    "text": "Zil",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_17",
+    "text": "Müdür",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_18",
+    "text": "Müdür yardımcısı",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_19",
+    "text": "Rehber öğretmen",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_20",
+    "text": "Servis",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_21",
+    "text": "Üniforma",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_22",
+    "text": "Okul kimliği",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_23",
+    "text": "Yemekhane",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_24",
+    "text": "Spor salonu",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_25",
+    "text": "Bahçe",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_26",
+    "text": "Laboratuvar",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_27",
+    "text": "Harita",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_28",
+    "text": "Küre",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_29",
+    "text": "Yazı tahtası",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_30",
+    "text": "Projeksiyon",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_31",
+    "text": "Öğrenci",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_32",
+    "text": "Sınıf başkanı",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_33",
+    "text": "Nöbetçi",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_34",
+    "text": "Devamsızlık",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_35",
+    "text": "Not listesi",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_36",
+    "text": "Karne",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_37",
+    "text": "Yaz tatili",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_38",
+    "text": "Kış tatili",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_39",
+    "text": "Okul gezisi",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_40",
+    "text": "Mezuniyet",
+    "categoryId": "okul",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎓"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_41",
+    "text": "Yurt odası",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_42",
+    "text": "Yazılı kağıdı",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_43",
+    "text": "Disiplin cezası",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_44",
+    "text": "Kütüphane sessizliği",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_45",
+    "text": "Bülten panosu",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_46",
+    "text": "Öğrenci belgesi",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_47",
+    "text": "Quiz",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_48",
+    "text": "Proje ödevi",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_49",
+    "text": "Grup çalışması",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_50",
+    "text": "Sözlü sınav",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_51",
+    "text": "Açık uçlu soru",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_52",
+    "text": "Çoktan seçmeli",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_53",
+    "text": "Formül kağıdı",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_54",
+    "text": "Hesap makinesi yasak",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_55",
+    "text": "Kopya çekmek",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_56",
+    "text": "Gözetmen",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_57",
+    "text": "Sınıf yoklaması",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_58",
+    "text": "E-Okul",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_59",
+    "text": "Veli toplantısı",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_60",
+    "text": "Staj dosyası",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_61",
+    "text": "Ders programı",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_62",
+    "text": "Seçmeli ders",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_63",
+    "text": "Kulüp etkinliği",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_64",
+    "text": "Okul gazetesi",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_65",
+    "text": "Tiyatro sahnesi",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_66",
+    "text": "Koro prova",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_67",
+    "text": "Spor müsabakası",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_68",
+    "text": "Öğrenci konseyi",
+    "categoryId": "okul",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_69",
+    "text": "Vize haftası",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_70",
+    "text": "Tez danışmanı",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_71",
+    "text": "Bitirme projesi",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_72",
+    "text": "Yüksek lisans jürisi",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_73",
+    "text": "Öğrenci affı",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_74",
+    "text": "Burs başvurusu",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_75",
+    "text": "Yatay geçiş",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_76",
+    "text": "Dikey geçiş",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_77",
+    "text": "Diploma eki",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "okul_78",
+    "text": "Akademik takvim",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_79",
+    "text": "Müfredat değişikliği",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "okul_80",
+    "text": "Transkript beklerken gerilmek",
+    "categoryId": "okul",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

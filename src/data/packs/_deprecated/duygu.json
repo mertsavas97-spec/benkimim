@@ -1,0 +1,816 @@
+[
+  {
+    "id": "duygu_01",
+    "text": "Mutluluk",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_02",
+    "text": "Üzüntü",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😢"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_03",
+    "text": "Kızgınlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😠"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_04",
+    "text": "Korku",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😨"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_05",
+    "text": "Şaşkınlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😲"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_06",
+    "text": "Heyecan",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_07",
+    "text": "Sıkıntı",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😑"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_08",
+    "text": "Gurur",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_09",
+    "text": "Sevgi",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "❤️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_10",
+    "text": "Nefret",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💔"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_11",
+    "text": "Endişe",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😰"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_12",
+    "text": "Umut",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌟"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_13",
+    "text": "Sükûnet",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_14",
+    "text": "Yorgunluk",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😩"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_15",
+    "text": "Can sıkıntısı",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_16",
+    "text": "Rahatlama",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_17",
+    "text": "Heves",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_18",
+    "text": "Pişmanlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_19",
+    "text": "Minnet",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_20",
+    "text": "Empati",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_21",
+    "text": "Özlem",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_22",
+    "text": "Şükran",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_23",
+    "text": "Güven",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_24",
+    "text": "Şüphe",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_25",
+    "text": "Cesaret",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_26",
+    "text": "Utangaçlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_27",
+    "text": "Moral",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_28",
+    "text": "Keyif",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_29",
+    "text": "Neşe",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😁"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_30",
+    "text": "Panik",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😱"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_31",
+    "text": "Stres",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "😫"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_32",
+    "text": "Sakinlik",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_33",
+    "text": "İlgi",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_34",
+    "text": "Telaş",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_35",
+    "text": "Huzursuzluk",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_36",
+    "text": "İyimserlik",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_37",
+    "text": "Karamsarlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_38",
+    "text": "Sabır",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_39",
+    "text": "Sabırsızlık",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_40",
+    "text": "İç ferahlığı",
+    "categoryId": "duygu",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_41",
+    "text": "Kıskançlık",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_42",
+    "text": "Utanç",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_43",
+    "text": "Nostalji",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_44",
+    "text": "Huzur",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_45",
+    "text": "Merak",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_46",
+    "text": "Hayal kırıklığı",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_47",
+    "text": "İntikam duygusu",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_48",
+    "text": "Gıpta",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_49",
+    "text": "Şefkat",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_50",
+    "text": "Hoşgörü",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_51",
+    "text": "İç sıkıntısı",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_52",
+    "text": "Bunalım",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_53",
+    "text": "Kaygı",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_54",
+    "text": "Öfke patlaması",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_55",
+    "text": "Yalnızlık",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_56",
+    "text": "Aidiyet",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_57",
+    "text": "Aşk acısı",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_58",
+    "text": "Haz",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_59",
+    "text": "Tedirginlik",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_60",
+    "text": "Mahcubiyet",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_61",
+    "text": "Küskünlük",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_62",
+    "text": "Gönül rahatlığı",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_63",
+    "text": "İç huzuru",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_64",
+    "text": "Duygusal yorgunluk",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_65",
+    "text": "Motivasyon",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_66",
+    "text": "Demotivasyon",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_67",
+    "text": "İç burkulması",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_68",
+    "text": "Gönül yarası",
+    "categoryId": "duygu",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_69",
+    "text": "Hınç",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_70",
+    "text": "Melankoli",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_71",
+    "text": "Ambivalans",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_72",
+    "text": "Schadenfreude",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_73",
+    "text": "Katarsis",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_74",
+    "text": "Anhedoni",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_75",
+    "text": "Saudade",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_76",
+    "text": "Weltschmerz",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_77",
+    "text": "Mono no aware",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_78",
+    "text": "Hüzün",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_79",
+    "text": "İç hesaplaşma",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "duygu_80",
+    "text": "Duygu karmaşası",
+    "categoryId": "duygu",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

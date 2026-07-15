@@ -1,0 +1,814 @@
+[
+  {
+    "id": "bilim_01",
+    "text": "Dünya",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌍"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_02",
+    "text": "Ay",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌙"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_03",
+    "text": "Güneş",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "☀️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_04",
+    "text": "Mikroskop",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_05",
+    "text": "Astronot",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "👨‍🚀"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_06",
+    "text": "Yıldırım",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "⚡"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_07",
+    "text": "Volkan",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌋"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_08",
+    "text": "DNA",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_09",
+    "text": "Yerçekimi",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_10",
+    "text": "Işık",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_11",
+    "text": "Ses",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_12",
+    "text": "Isı",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_13",
+    "text": "Su",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_14",
+    "text": "Hava",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_15",
+    "text": "Ateş",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_16",
+    "text": "Elektrik",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_17",
+    "text": "Manyetik alan",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_18",
+    "text": "Bakteri",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_19",
+    "text": "Virüs",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_20",
+    "text": "Hücre",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_21",
+    "text": "Bitki",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_22",
+    "text": "Hayvan",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_23",
+    "text": "İnsan vücudu",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_24",
+    "text": "Kalp",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "❤️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_25",
+    "text": "Beyin",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧠"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_26",
+    "text": "Kemik",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_27",
+    "text": "Kan",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_28",
+    "text": "Akciğer",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_29",
+    "text": "Sindirim",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_30",
+    "text": "Solunum",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_31",
+    "text": "Kimya",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_32",
+    "text": "Fizik",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_33",
+    "text": "Biyoloji",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_34",
+    "text": "Matematik",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_35",
+    "text": "Deney",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_36",
+    "text": "Laboratuvar",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧪"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_37",
+    "text": "Formül",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_38",
+    "text": "Denklem",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_39",
+    "text": "Atom",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_40",
+    "text": "Molekül",
+    "categoryId": "bilim",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_41",
+    "text": "Kara delik",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_42",
+    "text": "Fotosentez",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_43",
+    "text": "Samanyolu",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌌"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_44",
+    "text": "Teleskop",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔭"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_45",
+    "text": "Atom çekirdeği",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_46",
+    "text": "Jüpiter",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_47",
+    "text": "Satürn",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_48",
+    "text": "Mars",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🔴"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_49",
+    "text": "Venüs",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_50",
+    "text": "Merkür",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_51",
+    "text": "Neptün",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_52",
+    "text": "Uranüs",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_53",
+    "text": "Plüton",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_54",
+    "text": "Galaksi",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_55",
+    "text": "Süpernova",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_56",
+    "text": "Kuyrukluyıldız",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_57",
+    "text": "Evren",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_58",
+    "text": "Görelilik",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_59",
+    "text": "Genetik",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_60",
+    "text": "Evrim",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_61",
+    "text": "Ekoloji",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_62",
+    "text": "İklim",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_63",
+    "text": "Fosil",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_64",
+    "text": "Sera etkisi",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_65",
+    "text": "Ozon tabakası",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_66",
+    "text": "Asit-baz",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_67",
+    "text": "Periyodik tablo",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_68",
+    "text": "Kimyasal reaksiyon",
+    "categoryId": "bilim",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_69",
+    "text": "Kuark",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_70",
+    "text": "Nebula",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_71",
+    "text": "Higgs bozonu",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_72",
+    "text": "Karanlık madde",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_73",
+    "text": "Karanlık enerji",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_74",
+    "text": "Kuantum dolanıklık",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_75",
+    "text": "Nötrino",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_76",
+    "text": "Pulsar",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_77",
+    "text": "Quasar",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_78",
+    "text": "Mitokondri DNA",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_79",
+    "text": "Epigenetik",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "bilim_80",
+    "text": "Termodinamik entropi",
+    "categoryId": "bilim",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

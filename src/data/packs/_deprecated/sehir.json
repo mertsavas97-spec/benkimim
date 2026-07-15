@@ -1,0 +1,810 @@
+[
+  {
+    "id": "sehir_01",
+    "text": "İstanbul",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌉"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_02",
+    "text": "Ankara",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_03",
+    "text": "İzmir",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🌊"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_04",
+    "text": "Paris",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🗼"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_05",
+    "text": "New York",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🗽"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_06",
+    "text": "Roma",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_07",
+    "text": "Antalya",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🏖️"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_08",
+    "text": "Tokyo",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_09",
+    "text": "Bursa",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_10",
+    "text": "Adana",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_11",
+    "text": "Gaziantep",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_12",
+    "text": "Konya",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_13",
+    "text": "Londra",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎡"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_14",
+    "text": "Berlin",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_15",
+    "text": "Madrid",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_16",
+    "text": "Atina",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_17",
+    "text": "Kahire",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_18",
+    "text": "Moskova",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_19",
+    "text": "Pekin",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_20",
+    "text": "Sydney",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_21",
+    "text": "Venedik",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🛶"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_22",
+    "text": "Prag",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_23",
+    "text": "Viyana",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_24",
+    "text": "Lizbon",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_25",
+    "text": "Dubai",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_26",
+    "text": "Bangkok",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_27",
+    "text": "Floransa",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_28",
+    "text": "Milano",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_29",
+    "text": "Şanghay",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_30",
+    "text": "Singapur",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_31",
+    "text": "Toronto",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_32",
+    "text": "Los Angeles",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_33",
+    "text": "Meksiko City",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_34",
+    "text": "Rio de Janeiro",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_35",
+    "text": "Seul",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_36",
+    "text": "Muğla",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_37",
+    "text": "Eskişehir",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_38",
+    "text": "Samsun",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_39",
+    "text": "Kayseri",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_40",
+    "text": "Diyarbakır",
+    "categoryId": "sehir",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_41",
+    "text": "Kapadokya",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎈"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_42",
+    "text": "Trabzon",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_43",
+    "text": "Barselona",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_44",
+    "text": "Amsterdam",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_45",
+    "text": "Mardin",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_46",
+    "text": "Bodrum",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_47",
+    "text": "Alanya",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_48",
+    "text": "Çeşme",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_49",
+    "text": "Sapanca",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_50",
+    "text": "Abant",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_51",
+    "text": "Pamukkale",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_52",
+    "text": "Efes",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_53",
+    "text": "Aspendos",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_54",
+    "text": "Hasankeyf",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_55",
+    "text": "Safranbolu",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_56",
+    "text": "Cumalıkızık",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_57",
+    "text": "Odessa",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_58",
+    "text": "Krakov",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_59",
+    "text": "Budapeşte",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_60",
+    "text": "Zürih",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_61",
+    "text": "Cenevre",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_62",
+    "text": "Stockholm",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_63",
+    "text": "Oslo",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_64",
+    "text": "Helsinki",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_65",
+    "text": "Kopenhag",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_66",
+    "text": "Edinburgh",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_67",
+    "text": "Dublin",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_68",
+    "text": "Marrakeş",
+    "categoryId": "sehir",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_69",
+    "text": "Şanlıurfa",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_70",
+    "text": "Reykjavik",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_71",
+    "text": "Ljubljana",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_72",
+    "text": "Tiflis",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_73",
+    "text": "Bakü",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_74",
+    "text": "Erzurum",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_75",
+    "text": "Van",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_76",
+    "text": "Artvin",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_77",
+    "text": "Sinop",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_78",
+    "text": "Kars",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "sehir_79",
+    "text": "Valletta",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "sehir_80",
+    "text": "Tallinn",
+    "categoryId": "sehir",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "aile_01",
+    "text": "Anne",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_02",
+    "text": "Baba",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_03",
+    "text": "Kardeş",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_04",
+    "text": "Büyükanne",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_05",
+    "text": "Büyükbaba",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_06",
+    "text": "Amca",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_07",
+    "text": "Hala",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_08",
+    "text": "Teyze",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_09",
+    "text": "Dayı",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_10",
+    "text": "Kuzen",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_11",
+    "text": "Yeğen",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_12",
+    "text": "Dede",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_13",
+    "text": "Babaanne",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_14",
+    "text": "Anneanne",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_15",
+    "text": "Kayınvalide",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_16",
+    "text": "Kayınpeder",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_17",
+    "text": "Enişte",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_18",
+    "text": "Görümce",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_19",
+    "text": "Elti",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_20",
+    "text": "Bacanak",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_21",
+    "text": "Düğün",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_22",
+    "text": "Nişan",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_23",
+    "text": "Kına",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_24",
+    "text": "Bebek mevlidi",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_25",
+    "text": "Bayram ziyareti",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_26",
+    "text": "Komşu",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_27",
+    "text": "Misafir",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_28",
+    "text": "Sofra kurmak",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_29",
+    "text": "Çay ikram etmek",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_30",
+    "text": "Tatlı göndermek",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_31",
+    "text": "Telefonla aramak",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_32",
+    "text": "İyi geceler demek",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_33",
+    "text": "Öp bakalım",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_34",
+    "text": "Aile fotoğrafı",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_35",
+    "text": "Evlat",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_36",
+    "text": "Torun",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_37",
+    "text": "Bebek arabası",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_38",
+    "text": "Oyun parkı",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_39",
+    "text": "Masal anlatmak",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_40",
+    "text": "Ninni",
+    "categoryId": "aile",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_41",
+    "text": "Kaynana sohbeti",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_42",
+    "text": "Damat baklavası",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_43",
+    "text": "Kız isteme",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_44",
+    "text": "Söz yüzüğü",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_45",
+    "text": "Nikâh memuru",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_46",
+    "text": "Düğün salonu",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_47",
+    "text": "Damat arabası",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_48",
+    "text": "Gelinlik denemek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_49",
+    "text": "Kına gecesi oyunu",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_50",
+    "text": "Aile WhatsApp grubu",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_51",
+    "text": "Bayram şekeri dağıtmak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_52",
+    "text": "Komşuya börek götürmek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_53",
+    "text": "Misafir odası açmak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_54",
+    "text": "Yemek artığını paketlemek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_55",
+    "text": "Ramazan iftarı",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_56",
+    "text": "Sahur alarmı",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_57",
+    "text": "Bayramlık almak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_58",
+    "text": "Çocukları uyutmak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_59",
+    "text": "Ödev denetlemek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_60",
+    "text": "Kardeş kavgası",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_61",
+    "text": "Paylaşmak istememek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_62",
+    "text": "Saklambaç oynamak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_63",
+    "text": "Okey oynamak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_64",
+    "text": "Tavla oynamak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_65",
+    "text": "Çay sohbeti uzamak",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_66",
+    "text": "Evlilik teklifi videosu",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_67",
+    "text": "Aile büyüklerine el öpmek",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_68",
+    "text": "Nişan tepsisi",
+    "categoryId": "aile",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_69",
+    "text": "Miras konuşması",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_70",
+    "text": "Aile konseyi",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_71",
+    "text": "Nikâh şahidi olmak",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_72",
+    "text": "Sünnet düğünü planı",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_73",
+    "text": "Bebek ismi tartışması",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_74",
+    "text": "Kayınço ile sohbet",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_75",
+    "text": "Görümce diplomasi",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_76",
+    "text": "Kapora vermek",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_77",
+    "text": "Düğün playlist tartışması",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_78",
+    "text": "Aile yemeğinde siyaset",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_79",
+    "text": "Emlak paylaşımı tartışması",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "aile_80",
+    "text": "Torun isyanı",
+    "categoryId": "aile",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "is_01",
+    "text": "Toplantı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💼"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_02",
+    "text": "E-posta",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_03",
+    "text": "Laptop",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "💻"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_04",
+    "text": "Ofis",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_05",
+    "text": "Masabaşı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_06",
+    "text": "Kahve molası",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "☕"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_07",
+    "text": "Yemek molası",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_08",
+    "text": "Mesai",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_09",
+    "text": "Patron",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_10",
+    "text": "İş arkadaşı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_11",
+    "text": "Resepsiyon",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_12",
+    "text": "Kartvizit",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_13",
+    "text": "Dosya",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_14",
+    "text": "Klasör",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_15",
+    "text": "Yazıcı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🖨️"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_16",
+    "text": "Fotokopi",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_17",
+    "text": "Sunum",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📊"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_18",
+    "text": "Slayt",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_19",
+    "text": "Proje",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_20",
+    "text": "Deadline",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_21",
+    "text": "Takvim",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📅"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_22",
+    "text": "Ajanda",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_23",
+    "text": "Not defteri",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_24",
+    "text": "Kulaklık",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🎧"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_25",
+    "text": "Online toplantı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_26",
+    "text": "Şifre",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_27",
+    "text": "Şirket maili",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_28",
+    "text": "İzin almak",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_29",
+    "text": "Yıllık izin",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_30",
+    "text": "Mesaiye kalmak",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_31",
+    "text": "Evden çalışma",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_32",
+    "text": "İş yemeği",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_33",
+    "text": "Müşteri",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_34",
+    "text": "Fatura",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "🧾"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_35",
+    "text": "Fiyat teklifi",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_36",
+    "text": "Sözleşme",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "emoji",
+      "value": "📝"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_37",
+    "text": "İşe başlamak",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_38",
+    "text": "İş çıkışı",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_39",
+    "text": "Asansör sohbeti",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_40",
+    "text": "Kantinden sandviç",
+    "categoryId": "is",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_41",
+    "text": "Performans görüşmesi",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_42",
+    "text": "İK mülakatı",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_43",
+    "text": "Bordro",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "is_44",
+    "text": "Prim hesaplamak",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "is_45",
+    "text": "KPI takibi",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_46",
+    "text": "Haftalık rapor",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_47",
+    "text": "Paylaşım ekranı",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_48",
+    "text": "Whiteboard",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_49",
+    "text": "Günlük stand-up",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_50",
+    "text": "Sprint planı",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_51",
+    "text": "Backlog temizliği",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_52",
+    "text": "Müşteri şikayeti",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_53",
+    "text": "Teklif sunumu",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_54",
+    "text": "Bütçe onayı",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_55",
+    "text": "Masraf formu",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "is_56",
+    "text": "Seyahat talebi",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_57",
+    "text": "Vize mektubu",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_58",
+    "text": "İş seyahati",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_59",
+    "text": "Networking etkinliği",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_60",
+    "text": "Kartvizit alışverişi",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_61",
+    "text": "LinkedIn profili",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_62",
+    "text": "Referans istemek",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_63",
+    "text": "Zam istemek",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_64",
+    "text": "İstifa mektubu",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_65",
+    "text": "Çıkış mülakatı",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_66",
+    "text": "Ofis politikası",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_67",
+    "text": "Açık ofis gürültüsü",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_68",
+    "text": "Kahve makinesi sırası",
+    "categoryId": "is",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_69",
+    "text": "Kamera açık unutmak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_70",
+    "text": "Mikrofon kapalı kalmak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_71",
+    "text": "Performans puanı itirazı",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_72",
+    "text": "Hakediş faturası",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "is_73",
+    "text": "KVKK onayı",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "is_74",
+    "text": "NDA imzalamak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_75",
+    "text": "Hisse opsiyonu",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_76",
+    "text": "Yan proje açıklamak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_77",
+    "text": "Ofis dışı yanıt ayarlamak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_78",
+    "text": "Mesaj zinciri kaybolmak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_79",
+    "text": "Çift rezervasyon",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "is_80",
+    "text": "İnsan kaynakları politikası okumak",
+    "categoryId": "is",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]

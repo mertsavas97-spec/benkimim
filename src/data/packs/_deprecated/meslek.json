@@ -1,0 +1,802 @@
+[
+  {
+    "id": "meslek_01",
+    "text": "Doktor",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_02",
+    "text": "Öğretmen",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_03",
+    "text": "Aşçı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_04",
+    "text": "Pilot",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_05",
+    "text": "Berber",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "meslek_06",
+    "text": "Hemşire",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_07",
+    "text": "Şoför",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_08",
+    "text": "Polis",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_09",
+    "text": "Çiftçi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_10",
+    "text": "Garson",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_11",
+    "text": "Kuaför",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_12",
+    "text": "Tamirci",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_13",
+    "text": "Marangoz",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_14",
+    "text": "Elektrikçi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_15",
+    "text": "İtfaiyeci",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_16",
+    "text": "Postacı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_17",
+    "text": "Asker",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_18",
+    "text": "Diş hekimi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_19",
+    "text": "Ressam",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_20",
+    "text": "Müzisyen",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_21",
+    "text": "Oyuncu",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_22",
+    "text": "Gazeteci",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_23",
+    "text": "Mühendis",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_24",
+    "text": "Hostes",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_25",
+    "text": "Kasiyer",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_26",
+    "text": "Temizlikçi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_27",
+    "text": "Bahçıvan",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_28",
+    "text": "Fotoğrafçı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_29",
+    "text": "Sporcu",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_30",
+    "text": "Hakem",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_31",
+    "text": "Antrenör",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_32",
+    "text": "Terzi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_33",
+    "text": "Fırıncı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_34",
+    "text": "Balıkçı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_35",
+    "text": "Kaptan",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_36",
+    "text": "Güvenlik görevlisi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_37",
+    "text": "Ebe",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_38",
+    "text": "Kütüphaneci",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_39",
+    "text": "Aşçıbaşı",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_40",
+    "text": "Çağrı merkezi görevlisi",
+    "categoryId": "meslek",
+    "difficulty": "easy",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_41",
+    "text": "Avukat",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_42",
+    "text": "Mimar",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_43",
+    "text": "Veteriner",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_44",
+    "text": "Grafiker",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_45",
+    "text": "Muhasebeci",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_46",
+    "text": "Eczacı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_47",
+    "text": "Psikolog",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_48",
+    "text": "Fizyoterapist",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_49",
+    "text": "Yazılım geliştirici",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_50",
+    "text": "Veri analisti",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_51",
+    "text": "İç mimar",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_52",
+    "text": "Rehber",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_53",
+    "text": "Noter",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "meslek_54",
+    "text": "İcra memuru",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "tr"
+  },
+  {
+    "id": "meslek_55",
+    "text": "Sigortacı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_56",
+    "text": "Emlakçı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_57",
+    "text": "Editör",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_58",
+    "text": "Kameraman",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_59",
+    "text": "Kostüm tasarımcısı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_60",
+    "text": "Makyaj sanatçısı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_61",
+    "text": "Diyetisyen",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_62",
+    "text": "Laborant",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_63",
+    "text": "Jeolog",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_64",
+    "text": "Meteorolog",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_65",
+    "text": "Endüstriyel tasarımcı",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_66",
+    "text": "Ses teknisyeni",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_67",
+    "text": "Yeminli tercüman",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_68",
+    "text": "Diş teknisyeni",
+    "categoryId": "meslek",
+    "difficulty": "medium",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_69",
+    "text": "Çevirmen",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_70",
+    "text": "Seslendirme sanatçısı",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_71",
+    "text": "Aktüer",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_72",
+    "text": "Paleontolog",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_73",
+    "text": "Ornitolog",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_74",
+    "text": "Kriptograf",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_75",
+    "text": "Odyolog",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_76",
+    "text": "Ergoterapist",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_77",
+    "text": "Perfüzyonist",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_78",
+    "text": "Kartograf",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  },
+  {
+    "id": "meslek_79",
+    "text": "Sommelier",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "global"
+  },
+  {
+    "id": "meslek_80",
+    "text": "Epigrafist",
+    "categoryId": "meslek",
+    "difficulty": "hard",
+    "visual": {
+      "kind": "none"
+    },
+    "region": "both"
+  }
+]
