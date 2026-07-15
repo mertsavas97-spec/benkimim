@@ -15,8 +15,11 @@ Kod tarafı v1 hazırlıkları bu repoda. Mağaza / hesap adımları senin.
 
 ## Senin yapılacaklar (blocker)
 
-1. **Gizlilik URL** — `docs/legal/PRIVACY.md` içeriğini HTTPS’e koy; iletişimi doldur  
-   → `EXPO_PUBLIC_PRIVACY_POLICY_URL` + App Store / Play
+1. **Gizlilik / Destek URL** — GitHub Pages  
+   Privacy: https://mertsavas97-spec.github.io/benkimim/privacy/  
+   Support: https://mertsavas97-spec.github.io/benkimim/support/  
+   Terms: https://mertsavas97-spec.github.io/benkimim/terms/  
+   _(Repo Settings → Pages → Branch `main` / folder `/docs` — bir kez aç)_
 2. **AdMob** — gerçek App ID (`app.json` plugin) + interstitial/rewarded unit  
    → `EXPO_PUBLIC_ADMOB_INTERSTITIAL_UNIT_ID` / `EXPO_PUBLIC_ADMOB_REWARDED_UNIT_ID`
 3. **IAP** — `com.benkimim.app.premium_lifetime` her iki mağazada Active  
