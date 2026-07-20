@@ -15,7 +15,8 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.benkimim.app",
-      "buildNumber": "1",
+      "buildNumber": "3",
+      "icon": "./assets/icon.png",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
         "NSMotionUsageDescription": "Telefonu eğerek doğru ve pas vermek için hareket sensörü kullanılır."
@@ -26,9 +27,10 @@
     },
     "android": {
       "package": "com.benkimim.app",
-      "versionCode": 1,
+      "versionCode": 3,
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#12141A",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
@@ -50,7 +52,8 @@
           "iosAppId": "ca-app-pub-4628962707131944~9097764961"
         }
       ],
-      "expo-iap"
+      "expo-iap",
+      "./plugins/withClassicIosAppIcons.js"
     ],
     "extra": {
       "iapPremiumProductId": "com.benkimim.app.premium_lifetime",
@@ -62,7 +65,12 @@
       "admobAppId": "ca-app-pub-4628962707131944~9097764961",
       "admobBannerUnitId": "ca-app-pub-4628962707131944/3039743218",
       "admobInterstitialUnitId": "ca-app-pub-4628962707131944/9176253648",
-      "admobRewardedUnitId": "ca-app-pub-4628962707131944/3311205951"
-    }
+      "admobRewardedUnitId": "ca-app-pub-4628962707131944/3311205951",
+      "eas": {
+        "projectId": "cf57bb97-9db0-4ce2-84aa-0b53078c5da8"
+      },
+      "iapPreview": true
+    },
+    "owner": "mertsavas"
   }
 }

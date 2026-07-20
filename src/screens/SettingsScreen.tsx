@@ -1,5 +1,5 @@
 import { Ionicons } from '@expo/vector-icons';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import {
   ActivityIndicator,
   Pressable,
@@ -12,14 +12,19 @@ import {
 import { AdBanner } from '../components/AdBanner';
 import { BackHeader } from '../components/BackHeader';
 import { CategoryChip } from '../components/CategoryChip';
+import { PremiumPaywallModal } from '../components/PremiumPaywallModal';
 import { PrimaryButton } from '../components/PrimaryButton';
 import { ScreenAtmosphere } from '../components/ScreenAtmosphere';
 import { SectionLabel } from '../components/SectionLabel';
+import { isIapPreviewMode } from '../monetization/config';
 import {
+  iapNativeAvailable,
   purchasePremiumLifetime,
   restorePremiumPurchases,
 } from '../monetization/premium';
+import { usePremiumProduct } from '../monetization/usePremiumProduct';
 import type { AppPrefs } from '../storage/appPrefs';
+import { clearPremiumForDev } from '../storage/entitlements';
 import { colors, radius, space } from '../theme/tokens';
 import { fonts } from '../theme/typography';
 
@@ -46,14 +51,23 @@ export function SettingsScreen({
 }: Props) {
   const [busy, setBusy] = useState<'buy' | 'restore' | null>(null);
   const [msg, setMsg] = useState<string | null>(null);
+  const [paywallOpen, setPaywallOpen] = useState(false);
+  const previewMode = isIapPreviewMode() && !iapNativeAvailable();
+  const { info: premiumProduct, loading: priceLoading, refresh: refreshPrice } =
+    usePremiumProduct(!isPremium);
 
-  async function buy() {
+  useEffect(() => {
+    if (paywallOpen && !isPremium) void refreshPrice();
+  }, [paywallOpen, isPremium, refreshPrice]);
+
+  async function runPurchase() {
     if (busy || isPremium) return;
     setBusy('buy');
     setMsg(null);
     const res = await purchasePremiumLifetime();
     setBusy(null);
     if (res.ok) {
+      setPaywallOpen(false);
       onPremiumChange(true);
       setMsg(
         res.source === 'stub'
@@ -62,23 +76,41 @@ export function SettingsScreen({
       );
     } else if (res.reason === 'cancelled') {
       setMsg('Satın alma iptal edildi.');
+    } else if (res.reason === 'preview') {
+      setMsg(res.message ?? 'Önizleme modu — satın alma simüle edilmedi.');
     } else {
       setMsg(res.message ?? 'Satın alma tamamlanamadı.');
     }
   }
 
-  async function restore() {
+  function buy() {
+    if (busy || isPremium) return;
+    setMsg(null);
+    setPaywallOpen(true);
+  }
+
+  async function runRestore() {
     if (busy) return;
     setBusy('restore');
     setMsg(null);
     const res = await restorePremiumPurchases();
     setBusy(null);
     if (res.ok) {
+      setPaywallOpen(false);
       onPremiumChange(true);
       setMsg('Satın alma geri yüklendi.');
+    } else if (res.reason === 'preview') {
+      setMsg(res.message ?? 'Önizleme modu — geri yükleme simüle edilmedi.');
     } else {
       setMsg(res.message ?? 'Geri yüklenecek satın alma yok.');
     }
+  }
+
+  async function resetPremiumDev() {
+    await clearPremiumForDev();
+    onPremiumChange(false);
+    setPaywallOpen(false);
+    setMsg('Premium sıfırlandı — ekran görüntüsü için hazır.');
   }
 
   return (
@@ -92,6 +124,11 @@ export function SettingsScreen({
         </Text>
 
         <SectionLabel title="Premium" subtitle="Tek seferlik — abonelik yok" />
+        {previewMode ? (
+          <Text style={styles.previewNote}>
+            IAP önizleme açık — satın alma simüle edilmez; ekran görüntüsü alabilirsin.
+          </Text>
+        ) : null}
         <View style={[styles.infoBox, isPremium && styles.premiumOn]}>
           <View style={styles.premiumHead}>
             <Ionicons
@@ -118,12 +155,34 @@ export function SettingsScreen({
           )}
           {!isPremium ? (
             <View style={styles.premiumActions}>
+              <View style={styles.priceCard} accessibilityLabel="In-app purchase price">
+                <Text style={styles.priceCaption}>Fiyat</Text>
+                {priceLoading && !premiumProduct?.displayPrice ? (
+                  <ActivityIndicator color={colors.accent} />
+                ) : premiumProduct?.displayPrice ? (
+                  <Text style={styles.priceInline}>{premiumProduct.displayPrice}</Text>
+                ) : (
+                  <Text style={styles.pricePending}>Fiyat yükleniyor…</Text>
+                )}
+                <Text style={styles.priceSub}>Tek seferlik · abonelik yok</Text>
+                {!premiumProduct?.displayPrice ? (
+                  <Pressable onPress={() => void refreshPrice()} style={styles.retryPrice}>
+                    <Text style={styles.retryPriceText}>Fiyatı yenile</Text>
+                  </Pressable>
+                ) : null}
+              </View>
               <PrimaryButton
-                label={busy === 'buy' ? 'Satın alınıyor…' : 'Premium’u aç — reklamsız'}
+                label={
+                  busy === 'buy'
+                    ? 'Satın alınıyor…'
+                    : premiumProduct?.displayPrice
+                      ? `Satın al — ${premiumProduct.displayPrice}`
+                      : 'Premium’u gör'
+                }
                 onPress={() => void buy()}
                 disabled={busy != null}
               />
-              <Pressable onPress={() => void restore()} disabled={busy != null} style={styles.restore}>
+              <Pressable onPress={() => void runRestore()} disabled={busy != null} style={styles.restore}>
                 {busy === 'restore' ? (
                   <ActivityIndicator color={colors.accent} />
                 ) : (
@@ -133,6 +192,13 @@ export function SettingsScreen({
             </View>
           ) : null}
           {msg ? <Text style={styles.msg}>{msg}</Text> : null}
+          {__DEV__ ? (
+            <Pressable onPress={() => void resetPremiumDev()} style={styles.devReset}>
+              <Text style={styles.devResetText}>
+                {isPremium ? 'Premium sıfırla (geliştirme)' : 'Premium durumunu sıfırla (geliştirme)'}
+              </Text>
+            </Pressable>
+          ) : null}
         </View>
 
         <SectionLabel title="Kontrol" subtitle="Eğme, kaydırma ve geri bildirim" />
@@ -232,6 +298,16 @@ export function SettingsScreen({
       </ScrollView>
       <AdBanner enabled={!isPremium} />
       </View>
+      <PremiumPaywallModal
+        visible={paywallOpen}
+        busy={busy === 'buy' || busy === 'restore'}
+        displayPrice={premiumProduct?.displayPrice ?? null}
+        priceLoading={priceLoading}
+        onClose={() => setPaywallOpen(false)}
+        onPurchase={() => void runPurchase()}
+        onRestore={() => void runRestore()}
+        onRetryPrice={() => void refreshPrice()}
+      />
     </ScreenAtmosphere>
   );
 }
@@ -268,8 +344,58 @@ const styles = StyleSheet.create({
   title: { fontFamily: fonts.display, fontSize: 32, color: colors.ink },
   sub: { fontFamily: fonts.body, color: colors.muted, marginVertical: space.md, lineHeight: 22 },
   premiumHead: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  previewNote: {
+    fontFamily: fonts.body,
+    fontSize: 12,
+    lineHeight: 17,
+    color: colors.accent,
+    marginBottom: space.sm,
+  },
   premiumOn: { borderColor: 'rgba(240,180,41,0.55)' },
   premiumActions: { marginTop: space.md, gap: space.sm },
+  priceCard: {
+    alignItems: 'center',
+    paddingVertical: space.md,
+    paddingHorizontal: space.md,
+    borderRadius: radius.md,
+    backgroundColor: 'rgba(240,180,41,0.1)',
+    borderWidth: 1.5,
+    borderColor: 'rgba(240,180,41,0.5)',
+    gap: 4,
+  },
+  priceCaption: {
+    fontFamily: fonts.card,
+    fontSize: 11,
+    letterSpacing: 1.5,
+    color: colors.muted,
+    textTransform: 'uppercase',
+  },
+  priceInline: {
+    fontFamily: fonts.display,
+    fontSize: 36,
+    lineHeight: 40,
+    color: colors.accent,
+    textAlign: 'center',
+    letterSpacing: -0.5,
+  },
+  pricePending: {
+    fontFamily: fonts.bodySemi,
+    fontSize: 16,
+    color: colors.ink,
+    marginVertical: 6,
+  },
+  priceSub: {
+    fontFamily: fonts.body,
+    fontSize: 12,
+    color: colors.muted,
+  },
+  retryPrice: { paddingVertical: 4 },
+  retryPriceText: {
+    fontFamily: fonts.bodySemi,
+    fontSize: 13,
+    color: colors.accent,
+    textDecorationLine: 'underline',
+  },
   restore: { alignItems: 'center', paddingVertical: space.sm },
   restoreText: { fontFamily: fonts.bodySemi, color: colors.accent, fontSize: 14 },
   msg: {
@@ -278,6 +404,13 @@ const styles = StyleSheet.create({
     color: colors.muted,
     fontSize: 13,
     lineHeight: 18,
+  },
+  devReset: { marginTop: space.sm, alignItems: 'center', paddingVertical: space.xs },
+  devResetText: {
+    fontFamily: fonts.body,
+    fontSize: 12,
+    color: colors.muted,
+    textDecorationLine: 'underline',
   },
   rowSwitch: {
     flexDirection: 'row',

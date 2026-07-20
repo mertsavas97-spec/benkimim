@@ -73,6 +73,7 @@ export function SetupWizard({
   onStart,
 }: Props) {
   const [watching, setWatching] = useState(false);
+  const [unlockMsg, setUnlockMsg] = useState<string | null>(null);
   const whoCats = useMemo(
     () => Object.values(CATEGORY_META).filter((c) => c.group === 'who' && c.id !== 'custom'),
     [],
@@ -103,11 +104,17 @@ export function SetupWizard({
   async function unlockPacks() {
     if (watching || packsUnlocked) return;
     setWatching(true);
+    setUnlockMsg(null);
     const ok = await showRewardedUnlockAd();
     setWatching(false);
     if (ok) {
       await savePacksUnlocked();
       onUnlocked();
+      setUnlockMsg('Tüm kategoriler açıldı.');
+    } else {
+      setUnlockMsg(
+        'Reklam yüklenemedi. Biraz sonra tekrar dene veya Ayarlar’dan Premium’u aç.',
+      );
     }
   }
 
@@ -392,6 +399,16 @@ export function SetupWizard({
             ) : (
               <Text style={styles.unlockedNote}>Tüm paketler açık — karıştır, seç, başlat.</Text>
             )}
+            {unlockMsg ? (
+              <Text
+                style={[
+                  styles.unlockFeedback,
+                  packsUnlocked ? styles.unlockFeedbackOk : styles.unlockFeedbackWarn,
+                ]}
+              >
+                {unlockMsg}
+              </Text>
+            ) : null}
 
             <SectionLabel title="Kategoriler" />
             <View style={styles.grid}>
@@ -625,6 +642,15 @@ const styles = StyleSheet.create({
     marginBottom: space.md,
     fontSize: 14,
   },
+  unlockFeedback: {
+    fontFamily: fonts.body,
+    fontSize: 13,
+    lineHeight: 18,
+    marginBottom: space.md,
+    marginTop: -4,
+  },
+  unlockFeedbackOk: { color: colors.correct },
+  unlockFeedbackWarn: { color: colors.pass },
   grid: { flexDirection: 'row', flexWrap: 'wrap', gap: space.sm },
   tile: {
     width: '30%',

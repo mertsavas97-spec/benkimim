@@ -41,3 +41,7 @@ yarn-error.*
 .codex/
 .cursor/
 .expo/
+
+# Local production artifacts
+builds/
+*.ipa

@@ -59,14 +59,22 @@ export function createTeams(
 function customCardsFromSettings(settings: MatchSettings): Card[] {
   return settings.customWords
     .filter((w) => w.text.trim().length > 0)
-    .map((w, i) => ({
-      id: `custom_${i}_${w.text.trim().toLowerCase().replace(/\s+/g, '_')}`,
-      text: w.text.trim(),
-      categoryId: w.categoryId?.trim() || 'custom',
-      difficulty: w.difficulty ?? 'medium',
-      visual: { kind: 'none' as const },
-      hint: w.hint?.trim() || undefined,
-    }));
+    .map((w, i) => {
+      const label = w.categoryId?.trim();
+      // Freemium: özel kart ASLA ücretli arşiv kategorisini açmaz — hep "custom".
+      // Kullanıcı kategorisi yalnızca ipucu yoksa yumuşak ipucu olur.
+      const hint =
+        w.hint?.trim() ||
+        (label && label !== 'custom' ? label.replace(/_/g, ' ') : undefined);
+      return {
+        id: `custom_${i}_${w.text.trim().toLowerCase().replace(/\s+/g, '_')}`,
+        text: w.text.trim(),
+        categoryId: 'custom',
+        difficulty: w.difficulty ?? 'medium',
+        visual: { kind: 'none' as const },
+        hint,
+      };
+    });
 }
 
 export function createMatch(
@@ -91,17 +99,12 @@ export function createMatch(
 
   const extras = customCardsFromSettings(settings);
   const mergedArchive = [...archive, ...extras];
-  const catSet = new Set(
-    settings.customWordsOnly
-      ? extras.map((c) => c.categoryId)
-      : [...settings.categories, ...extras.map((c) => c.categoryId)],
-  );
-  if (!settings.customWordsOnly && extras.length === 0) {
-    /* keep */
-  }
+  // Seçili kategoriler + varsa custom; özel kart etiketi paket kilidini genişletmez.
   const categories = settings.customWordsOnly
-    ? [...catSet]
-    : [...catSet];
+    ? ['custom']
+    : extras.length > 0
+      ? Array.from(new Set([...settings.categories, 'custom']))
+      : [...settings.categories];
 
   const seed = settings.seed ?? `match_${Date.now()}`;
   const deck = buildDeck(mergedArchive, {

@@ -1,5 +1,5 @@
 /**
- * MVP archive smoke — WHO-only (kişi/karakter)
+ * MVP archive smoke — WHO-only (kişi/karakter) + freemium defenses
  */
 import {
   buildDeck,
@@ -15,6 +15,8 @@ import {
   whoCategoryCount,
   loadAllCards,
   CATEGORY_META,
+  filterPlayableCategories,
+  GENERAL_PRESET,
 } from '../src/data/loadPacks';
 
 const archive = loadAllCards();
@@ -98,9 +100,81 @@ const deck = buildDeck(archive, {
   targetSize: 40,
 });
 
+// Freemium: özel kartlar ücretli arşiv paketini açmasın
+const customBypass = createMatch(
+  archive,
+  {
+    categories: ['muzisyen', 'super_kahraman'],
+    customWordsOnly: true,
+    customWords: [
+      {
+        text: 'Test Karakter',
+        categoryId: 'muzisyen',
+        hint: 'premium pack label',
+      },
+    ],
+    seed: 'custom-bypass',
+    durationSec: 45,
+    gyroEnabled: false,
+  },
+  ['A', 'B'],
+);
+console.assert(
+  customBypass.settings.categories.every((c) => c === 'custom'),
+  'customWordsOnly must force categories=["custom"]',
+);
+console.assert(
+  customBypass.deck.queue.every((c) => c.categoryId === 'custom'),
+  'custom-only deck must not include archive packs',
+);
+console.assert(
+  customBypass.deck.queue.every((c) => c.text === 'Test Karakter'),
+  'custom-only deck should be user cards only',
+);
+console.assert(
+  !customBypass.archive.some(
+    (c) => c.id.startsWith('custom_') && c.categoryId === 'muzisyen',
+  ),
+  'custom card must never keep premium categoryId',
+);
+
+const mixedCustom = createMatch(
+  archive,
+  {
+    categories: ['unlu'],
+    customWordsOnly: false,
+    customWords: [{ text: 'Ev Kartı', categoryId: 'oyun_karakter' }],
+    seed: 'mixed-custom',
+    durationSec: 45,
+    gyroEnabled: false,
+  },
+  ['A', 'B'],
+);
+const customCard = mixedCustom.archive.find((c) => c.text === 'Ev Kartı');
+console.assert(customCard?.categoryId === 'custom', 'mixed custom → categoryId custom');
+console.assert(
+  mixedCustom.settings.categories.includes('custom'),
+  'mixed match adds custom to categories',
+);
+console.assert(
+  !mixedCustom.settings.categories.includes('oyun_karakter'),
+  'custom label must not inject locked pack into settings.categories',
+);
+
+const sanitized = filterPlayableCategories(
+  ['unlu', 'muzisyen', 'custom', 'super_kahraman'],
+  false,
+);
+console.assert(
+  sanitized.every((id) => id === 'custom' || GENERAL_PRESET.includes(id)),
+  'filterPlayableCategories must drop locked packs when locked',
+);
+console.assert(sanitized.includes('unlu') && sanitized.includes('custom'), 'keep free+custom');
+
 console.log('who-smoke PASS', {
   cards: archive.length,
   whoCategories: whoN,
   deck: deck.queue.length,
   byCat,
+  freemium: 'ok',
 });

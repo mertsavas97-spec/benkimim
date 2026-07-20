@@ -9,9 +9,15 @@ import {
   View,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { PrimaryButton } from '../components/PrimaryButton';
 import { AdBanner } from '../components/AdBanner';
+import { PremiumPaywallModal } from '../components/PremiumPaywallModal';
+import { PrimaryButton } from '../components/PrimaryButton';
 import { ScreenAtmosphere } from '../components/ScreenAtmosphere';
+import {
+  purchasePremiumLifetime,
+  restorePremiumPurchases,
+} from '../monetization/premium';
+import { usePremiumProduct } from '../monetization/usePremiumProduct';
 import { colors, radius, space } from '../theme/tokens';
 import { fonts } from '../theme/typography';
 
@@ -19,6 +25,7 @@ export type HomeGameMode = 'solo_turn' | 'teams';
 
 type Props = {
   isPremium: boolean;
+  onPremiumChange: (on: boolean) => void;
   onQuickPlay: () => void;
   onStartMode: (mode: HomeGameMode) => void;
   onHowTo: () => void;
@@ -33,6 +40,7 @@ type Props = {
  */
 export function HomeScreen({
   isPremium,
+  onPremiumChange,
   onQuickPlay,
   onStartMode,
   onHowTo,
@@ -42,29 +50,85 @@ export function HomeScreen({
 }: Props) {
   const insets = useSafeAreaInsets();
   const [enter] = useState(() => new Animated.Value(0));
+  const [paywallOpen, setPaywallOpen] = useState(false);
+  const [busy, setBusy] = useState<'buy' | 'restore' | null>(null);
+  const { info: premiumProduct, loading: priceLoading, refresh: refreshPrice } =
+    usePremiumProduct(!isPremium);
 
   useEffect(() => {
     Animated.timing(enter, { toValue: 1, duration: 400, useNativeDriver: true }).start();
   }, [enter]);
 
+  useEffect(() => {
+    if (paywallOpen && !isPremium) void refreshPrice();
+  }, [paywallOpen, isPremium, refreshPrice]);
+
+  function openPremium() {
+    if (isPremium) {
+      onSettings();
+      return;
+    }
+    setPaywallOpen(true);
+  }
+
+  async function runPurchase() {
+    if (busy || isPremium) return;
+    setBusy('buy');
+    const res = await purchasePremiumLifetime();
+    setBusy(null);
+    if (res.ok) {
+      setPaywallOpen(false);
+      onPremiumChange(true);
+    }
+  }
+
+  async function runRestore() {
+    if (busy) return;
+    setBusy('restore');
+    const res = await restorePremiumPurchases();
+    setBusy(null);
+    if (res.ok) {
+      setPaywallOpen(false);
+      onPremiumChange(true);
+    }
+  }
+
+  const topPad = Math.max(insets.top, 8);
+
   return (
     <ScreenAtmosphere>
       <View style={styles.shell}>
-        <Pressable
-          onPress={onSettings}
-          hitSlop={14}
-          style={[styles.settingsBtn, { top: Math.max(insets.top, 8) }]}
-          accessibilityRole="button"
-          accessibilityLabel="Ayarlar"
-        >
-          <Ionicons name="settings-outline" size={22} color={colors.accent} />
-        </Pressable>
+        <View style={[styles.topBar, { top: topPad }]}>
+          <Pressable
+            onPress={openPremium}
+            hitSlop={8}
+            style={[styles.premiumBtn, isPremium && styles.premiumBtnOn]}
+            accessibilityRole="button"
+            accessibilityLabel={isPremium ? 'Premium aktif' : 'Premium'}
+          >
+            <Ionicons
+              name={isPremium ? 'diamond' : 'diamond-outline'}
+              size={18}
+              color={colors.accent}
+            />
+            <Text style={styles.premiumLabel}>Premium</Text>
+          </Pressable>
+          <Pressable
+            onPress={onSettings}
+            hitSlop={10}
+            style={styles.settingsBtn}
+            accessibilityRole="button"
+            accessibilityLabel="Ayarlar"
+          >
+            <Ionicons name="settings-outline" size={22} color={colors.accent} />
+          </Pressable>
+        </View>
 
         <Animated.View
           style={[
             styles.root,
             {
-              paddingTop: Math.max(insets.top, 8) + 12,
+              paddingTop: topPad + 12,
               paddingBottom: Math.max(insets.bottom, 12) + 8,
               opacity: enter,
             },
@@ -118,6 +182,16 @@ export function HomeScreen({
         </Animated.View>
         <AdBanner enabled={!isPremium} />
       </View>
+      <PremiumPaywallModal
+        visible={paywallOpen}
+        busy={busy === 'buy' || busy === 'restore'}
+        displayPrice={premiumProduct?.displayPrice ?? null}
+        priceLoading={priceLoading}
+        onClose={() => setPaywallOpen(false)}
+        onPurchase={() => void runPurchase()}
+        onRestore={() => void runRestore()}
+        onRetryPrice={() => void refreshPrice()}
+      />
     </ScreenAtmosphere>
   );
 }
@@ -142,10 +216,30 @@ function MenuRow({
 
 const styles = StyleSheet.create({
   shell: { flex: 1 },
-  settingsBtn: {
+  topBar: {
     position: 'absolute',
     right: space.lg,
     zIndex: 20,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  premiumBtn: {
+    height: 44,
+    borderRadius: 22,
+    paddingHorizontal: 16,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 7,
+    borderWidth: 1,
+    borderColor: 'rgba(240,180,41,0.55)',
+    backgroundColor: 'rgba(240,180,41,0.12)',
+  },
+  premiumBtnOn: {
+    borderColor: 'rgba(240,180,41,0.7)',
+    backgroundColor: 'rgba(240,180,41,0.2)',
+  },
+  settingsBtn: {
     width: 44,
     height: 44,
     borderRadius: 22,
@@ -155,6 +249,11 @@ const styles = StyleSheet.create({
     borderWidth: StyleSheet.hairlineWidth,
     borderColor: 'rgba(240,180,41,0.35)',
   },
+  premiumLabel: {
+    fontFamily: fonts.bodySemi,
+    fontSize: 14,
+    color: colors.accent,
+  },
   root: {
     flex: 1,
     paddingHorizontal: space.lg,
@@ -162,7 +261,6 @@ const styles = StyleSheet.create({
   },
   hero: {
     gap: 6,
-    paddingRight: 48,
   },
   logoClip: {
     width: 72,

@@ -1,6 +1,6 @@
 import Constants from 'expo-constants';
 import { NativeModules, Platform, TurboModuleRegistry } from 'react-native';
-import { PREMIUM_PRODUCT_ID } from './config';
+import { isIapPreviewMode, PREMIUM_PRODUCT_ID } from './config';
 import {
   loadPremiumUnlocked,
   savePremiumUnlocked,
@@ -58,14 +58,121 @@ async function ensureConnected(): Promise<IapSdk | null> {
   return sdk;
 }
 
+async function prefetchPremiumProduct(sdk: IapSdk): Promise<boolean> {
+  const info = await fetchPremiumProductInfoWithSdk(sdk);
+  return info != null;
+}
+
+export type PremiumProductInfo = {
+  id: string;
+  displayPrice: string;
+  title: string;
+  description: string;
+};
+
+/** Başarılı katalog sonucu — null’ı cache’leme (ASC review’da ilk fetch bazen boş döner). */
+let cachedProduct: PremiumProductInfo | null = null;
+
+function productFromRaw(p: Record<string, unknown>): PremiumProductInfo | null {
+  const displayPrice = String(
+    p.displayPrice ?? p.localizedPrice ?? p.localizedPriceIOS ?? '',
+  ).trim();
+  if (!displayPrice) return null;
+  return {
+    id: String(p.id ?? p.productId ?? PREMIUM_PRODUCT_ID),
+    displayPrice,
+    title: String(p.title ?? p.displayName ?? p.displayNameIOS ?? 'Ömür boyu Premium'),
+    description: String(p.description ?? ''),
+  };
+}
+
+async function fetchPremiumProductInfoWithSdk(
+  sdk: IapSdk,
+): Promise<PremiumProductInfo | null> {
+  try {
+    if (typeof sdk.fetchProducts !== 'function') return null;
+    const products = await sdk.fetchProducts({
+      skus: [PREMIUM_PRODUCT_ID],
+      type: 'in-app',
+    });
+    if (!Array.isArray(products) || products.length === 0) return null;
+    const match =
+      products.find((p) => {
+        const id = String(
+          (p as { id?: string; productId?: string }).id ??
+            (p as { productId?: string }).productId ??
+            '',
+        );
+        return id === PREMIUM_PRODUCT_ID;
+      }) ?? products[0];
+    return productFromRaw(match as unknown as Record<string, unknown>);
+  } catch {
+    return null;
+  }
+}
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/** App Store / Play fiyatını mağazadan çeker (ASC: fiyat satın almadan önce görünmeli). */
+export async function getPremiumProductInfo(
+  force = false,
+): Promise<PremiumProductInfo | null> {
+  if (!force && cachedProduct) return cachedProduct;
+
+  if (isIapPreviewMode() && !(await ensureConnected())) {
+    cachedProduct = {
+      id: PREMIUM_PRODUCT_ID,
+      displayPrice: '₺99,99',
+      title: 'Ömür boyu Premium',
+      description: 'Tüm kategoriler ve reklamsız oyun.',
+    };
+    return cachedProduct;
+  }
+
+  const sdk = await ensureConnected();
+  if (!sdk) {
+    return cachedProduct;
+  }
+
+  // Review cihazında ilk StoreKit çağrısı bazen boş; birkaç kez dene.
+  const delays = force ? [0, 400, 1000, 2000] : [0, 600, 1500];
+  for (const delay of delays) {
+    if (delay > 0) await sleep(delay);
+    const info = await fetchPremiumProductInfoWithSdk(sdk);
+    if (info) {
+      cachedProduct = info;
+      return info;
+    }
+  }
+
+  return cachedProduct;
+}
+
+export function clearPremiumProductCache(): void {
+  cachedProduct = null;
+}
+
 export type PurchaseResult =
   | { ok: true; source: 'store' | 'restore' | 'stub' }
-  | { ok: false; reason: 'cancelled' | 'unavailable' | 'error'; message?: string };
+  | {
+      ok: false;
+      reason: 'cancelled' | 'unavailable' | 'error' | 'preview';
+      message?: string;
+    };
 
 /** Tek seferlik premium — tüm kategoriler + reklam yok. */
 export async function purchasePremiumLifetime(): Promise<PurchaseResult> {
   const sdk = await ensureConnected();
   if (!sdk) {
+    if (isIapPreviewMode()) {
+      return {
+        ok: false,
+        reason: 'preview',
+        message: 'Önizleme modu — satın alma simüle edilmedi.',
+      };
+    }
     if (__DEV__) {
       await savePremiumUnlocked();
       return { ok: true, source: 'stub' };
@@ -74,6 +181,15 @@ export async function purchasePremiumLifetime(): Promise<PurchaseResult> {
       ok: false,
       reason: 'unavailable',
       message: 'Mağaza yok — EAS development build gerekir',
+    };
+  }
+
+  const catalogOk = await prefetchPremiumProduct(sdk);
+  if (!catalogOk) {
+    return {
+      ok: false,
+      reason: 'unavailable',
+      message: 'Premium ürün mağazada bulunamadı. Biraz sonra tekrar dene.',
     };
   }
 
@@ -138,6 +254,13 @@ export async function restorePremiumPurchases(): Promise<PurchaseResult> {
   if (!sdk) {
     const local = await loadPremiumUnlocked();
     if (local) return { ok: true, source: 'restore' };
+    if (isIapPreviewMode()) {
+      return {
+        ok: false,
+        reason: 'preview',
+        message: 'Önizleme modu — geri yükleme simüle edilmedi.',
+      };
+    }
     if (__DEV__) {
       await savePremiumUnlocked();
       return { ok: true, source: 'stub' };

@@ -33,3 +33,12 @@ export async function savePremiumUnlocked(): Promise<void> {
     [KEYS.packsUnlocked, '1'],
   ]);
 }
+
+/** Geliştirme: IAP ekran görüntüsü / önizleme için premium kilidini kaldır. */
+export async function clearPremiumForDev(opts?: { packsToo?: boolean }): Promise<void> {
+  if (opts?.packsToo) {
+    await AsyncStorage.multiRemove([KEYS.premium, KEYS.packsUnlocked]);
+    return;
+  }
+  await AsyncStorage.removeItem(KEYS.premium);
+}

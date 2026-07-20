@@ -93,5 +93,20 @@ export function ipCategoryCount(): number {
 
 export function isCategoryLocked(categoryId: string, unlocked: boolean): boolean {
   if (unlocked) return false;
+  if (categoryId === 'custom') return false;
   return !GENERAL_PRESET.includes(categoryId);
+}
+
+/**
+ * Freemium savunması: kilitli arşiv paketleri seçime sızmasın.
+ * `custom` her zaman oynanabilir (kendi kartları); ücretli pack ID’leri düşer.
+ */
+export function filterPlayableCategories(
+  categories: string[],
+  packsUnlocked: boolean,
+): string[] {
+  const next = categories.filter(
+    (id) => id === 'custom' || !isCategoryLocked(id, packsUnlocked),
+  );
+  return next.length > 0 ? next : [...GENERAL_PRESET];
 }

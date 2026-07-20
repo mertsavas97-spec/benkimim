@@ -2,11 +2,23 @@
  * Monetization + store legal URLs.
  * Live site: https://mertsavas97-spec.github.io/benkimim/
  */
+import Constants from 'expo-constants';
 import { Platform } from 'react-native';
 
 /** Tek seferlik (non-consumable) premium */
 export const PREMIUM_PRODUCT_ID =
   process.env.EXPO_PUBLIC_IAP_PREMIUM_ID ?? 'com.benkimim.app.premium_lifetime';
+
+/**
+ * Simülatör / Expo Go: gerçek mağaza yokken stub satın alma yerine paywall önizlemesi.
+ * Production’da asla aktif olmaz.
+ */
+export function isIapPreviewMode(): boolean {
+  if (!__DEV__) return false;
+  if (process.env.EXPO_PUBLIC_IAP_PREVIEW === '1') return true;
+  const extra = Constants.expoConfig?.extra as { iapPreview?: boolean } | undefined;
+  return extra?.iapPreview === true;
+}
 
 /** GitHub Pages (ASC Privacy / Support URL) */
 export const LEGAL_SITE_BASE =
@@ -82,6 +94,11 @@ export function warnIfMonetizationMisconfigured(): void {
   if (process.env.EXPO_PUBLIC_ALLOW_AD_STUB === '1') {
     console.warn(
       '[benkimim] EXPO_PUBLIC_ALLOW_AD_STUB=1 in production — disable for store builds.',
+    );
+  }
+  if (process.env.EXPO_PUBLIC_ALLOW_TEST_ADS === '1') {
+    console.warn(
+      '[benkimim] EXPO_PUBLIC_ALLOW_TEST_ADS=1 in production — unset for store builds.',
     );
   }
 }

@@ -11,7 +11,7 @@ import {
   SourceSans3_600SemiBold,
   SourceSans3_700Bold,
 } from '@expo-google-fonts/source-sans-3';
-import { loadAllCards } from './src/data/loadPacks';
+import { filterPlayableCategories, loadAllCards } from './src/data/loadPacks';
 import {
   advanceTurn,
   createMatch,
@@ -44,6 +44,7 @@ import {
   type SetupDraft,
 } from './src/setup/draft';
 import { bootMonetization, maybeShowInterstitial, setPremiumAdGate } from './src/monetization/gate';
+import { getPremiumProductInfo } from './src/monetization/premium';
 import {
   DEFAULT_PREFS,
   loadOnboardingDone,
@@ -116,6 +117,7 @@ export default function App() {
       setCustomWords(words);
       setDraft(defaultSetup(false, p));
       await bootMonetization(premium);
+      if (!premium) void getPremiumProductInfo();
       setRoute(done ? { name: 'home' } : { name: 'onboarding' });
     })();
   }, []);
@@ -140,6 +142,8 @@ export default function App() {
         tiltInverted: prefs.tiltInverted,
         cardTextScale: prefs.cardTextScale,
         passPenalty: prefs.passPenalty,
+        // Freemium: UI kilidi kaçsa bile ücretli paketler desteye girmesin
+        categories: filterPlayableCategories(d.categories, packsUnlocked || isPremium),
       };
       const m = startReady(
         createMatch(
@@ -151,7 +155,7 @@ export default function App() {
       setMatch(m);
       setRoute({ name: 'next_player' });
     },
-    [archive, customWords, prefs],
+    [archive, customWords, prefs, packsUnlocked, isPremium],
   );
 
   const openSetup = (
@@ -183,6 +187,9 @@ export default function App() {
     if (on) {
       setPacksUnlocked(true);
       setPremiumAdGate(true);
+    } else {
+      setPremiumAdGate(false);
+      void loadPacksUnlocked().then(setPacksUnlocked);
     }
   };
 
@@ -248,6 +255,7 @@ export default function App() {
         {route.name === 'home' ? (
           <HomeScreen
             isPremium={isPremium}
+            onPremiumChange={onPremiumChange}
             onQuickPlay={() => openSetup('solo_turn', { quick: true })}
             onStartMode={(mode) => openSetup(mode)}
             onHowTo={() => navigateMenu({ name: 'howto' })}
